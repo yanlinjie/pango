@@ -1,0 +1,33 @@
+version,2022.2-SP1-Lite<build 132640>
+project name,ipsxb_fft_onboard_top.pds
+
+Single Seed:
+Seed,State,Convergence,Setup(Slow),Setup(Fast),Hold(Slow),Hold(Fast),Recovery(Slow),Recovery(Fast),Removal(Slow),Removal(Fast),PBM-GP,PBM-PreGP,PBM-PostGP,LP,Total Placement Cpu Time,Detailed routing,Total Routing Cpu Time,Wire Length After Post-GP,Wire Length After LP,Wire Length After DP,Routing Arc Length,Worst Slack After GP Timing,Worst Slack After LP Timing,Worst Slack Before RP,Worst Slack Before DP,Worst Slack After DP,Worst Slack After Placement,Worst Slack After TA By Preroute,TNS After DP,TNS Before Route,Setup(Slow) Total Failing TNS,Setup(Slow) Total Failing Endpoints,Hold(Slow) Total Failing THS,Hold(Slow) Total Failing Endpoints
+single,OK,OK,0.284,1.680,0.145,0.103,1.149,2.441,1.241,0.848,NA,NA,NA,0.19,11.52,5.70,11.20,98177,104438,104438,78006,NA,NA,569,NA,NA,569,NA,NA,0,0.000,0,0.000,0
+Pass Rate/Convergence Rate,100.00%,100.00%
+
+Synthesize:
+control_set,25
+Synthesize Performance Summary:
+slack category,Synthesize Setup WNS,Synthesize Setup TNS,Synthesize Recovery WNS,Synthesize Recovery TNS
+slack value,0.200,0.000,3.542,0.000
+Synthesize Process Cpu Time,0h:0m:16s
+
+Device Map:
+Device Map Resource Usage Summary:
+Logic Utilization,LUT,FF,DRM,APM,Distributed RAM,HSSTHP,USCM,HCKB,RCKB
+Used,3629,4934,12.5,74,614,NA,1,NA,0
+Available,42800,64200,134,84,17000,NA,30,NA,24
+Utilization(%),9%,8%,10%,89%,4%,NA,4%,NA,0%
+Device Map Process Cpu Time,0h:0m:10s
+
+Project Configurations:
+top module,ipsxe_fft_onboard_top
+compile,
+synthesize," -ads "
+device map,
+place & route," -fix_hold_violation "
+
+Test Parameters Configurations:
+testparam,
+

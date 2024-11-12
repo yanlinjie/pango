@@ -1,0 +1,161 @@
+##### Written on 2024/11/12 14:16:45 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PGL50H-6FBG484
+
+Top Module : 
+	top
+
+Constraint File(s) : 
+	C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 26 critical warning(s), 16 warning(s), out of 1039 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+define_attribute {p:da_clk} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 111)] PAP_IO_DIRECTION is already defined in p:da_clk, new value OUTPUT will overwrite the current value.
+
+define_attribute {p:da_clk} {PAP_IO_LOC} {W10}
+	W: ConstraintEditor-4026: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 112)] PAP_IO_LOC is already defined in p:da_clk, new value W10 will overwrite the current value.
+
+define_attribute {p:da_clk} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 113)] PAP_IO_VCCIO is already defined in p:da_clk, new value 3.3 will overwrite the current value.
+
+define_attribute {p:da_clk} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 114)] PAP_IO_STANDARD is already defined in p:da_clk, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:da_clk} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 115)] PAP_IO_DRIVE is already defined in p:da_clk, new value 8 will overwrite the current value.
+
+define_attribute {p:da_clk} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 116)] PAP_IO_NONE is already defined in p:da_clk, new value TRUE will overwrite the current value.
+
+define_attribute {p:da_clk} {PAP_IO_SLEW} {SLOW}
+	W: ConstraintEditor-4026: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 117)] PAP_IO_SLEW is already defined in p:da_clk, new value SLOW will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_DIRECTION} {INOUT}
+	W: ConstraintEditor-4026: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 566)] PAP_IO_DIRECTION is already defined in p:iic_sda, new value INOUT will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_LOC} {A20}
+	W: ConstraintEditor-4026: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 567)] PAP_IO_LOC is already defined in p:iic_sda, new value A20 will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 568)] PAP_IO_VCCIO is already defined in p:iic_sda, new value 3.3 will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 569)] PAP_IO_STANDARD is already defined in p:iic_sda, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 570)] PAP_IO_DRIVE is already defined in p:iic_sda, new value 8 will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 571)] PAP_IO_NONE is already defined in p:iic_sda, new value TRUE will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_SLEW} {SLOW}
+	W: ConstraintEditor-4026: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 572)] PAP_IO_SLEW is already defined in p:iic_sda, new value SLOW will overwrite the current value.
+
+define_attribute {p:da_data_out[7]} {PAP_IO_LOC} {AB13}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 46)] | Port da_data_out[7] has been placed at location AB13, whose type is share pin.
+
+define_attribute {p:da_data_out[6]} {PAP_IO_LOC} {Y13}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 53)] | Port da_data_out[6] has been placed at location Y13, whose type is share pin.
+
+define_attribute {p:b_out[7]} {PAP_IO_LOC} {C18}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 202)] | Port b_out[7] has been placed at location C18, whose type is share pin.
+
+define_attribute {p:b_out[6]} {PAP_IO_LOC} {A18}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 209)] | Port b_out[6] has been placed at location A18, whose type is share pin.
+
+define_attribute {p:b_out[5]} {PAP_IO_LOC} {B18}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 216)] | Port b_out[5] has been placed at location B18, whose type is share pin.
+
+define_attribute {p:b_out[4]} {PAP_IO_LOC} {B20}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 223)] | Port b_out[4] has been placed at location B20, whose type is share pin.
+
+define_attribute {p:g_out[0]} {PAP_IO_LOC} {D17}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 307)] | Port g_out[0] has been placed at location D17, whose type is share pin.
+
+define_attribute {p:b_3_in[7]} {PAP_IO_LOC} {K19}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 403)] | Port b_3_in[7] has been placed at location K19, whose type is share pin.
+
+define_attribute {p:b_3_in[3]} {PAP_IO_LOC} {N22}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 423)] | Port b_3_in[3] has been placed at location N22, whose type is share pin.
+
+define_attribute {p:b_3_in[2]} {PAP_IO_LOC} {N20}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 428)] | Port b_3_in[2] has been placed at location N20, whose type is share pin.
+
+define_attribute {p:b_3_in[0]} {PAP_IO_LOC} {F21}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 438)] | Port b_3_in[0] has been placed at location F21, whose type is share pin.
+
+define_attribute {p:g_3_in[6]} {PAP_IO_LOC} {H20}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 448)] | Port g_3_in[6] has been placed at location H20, whose type is share pin.
+
+define_attribute {p:g_3_in[5]} {PAP_IO_LOC} {J19}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 453)] | Port g_3_in[5] has been placed at location J19, whose type is share pin.
+
+define_attribute {p:g_3_in[0]} {PAP_IO_LOC} {K18}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 478)] | Port g_3_in[0] has been placed at location K18, whose type is share pin.
+
+define_attribute {p:r_3_in[4]} {PAP_IO_LOC} {F18}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 498)] | Port r_3_in[4] has been placed at location F18, whose type is share pin.
+
+define_attribute {p:r_3_in[3]} {PAP_IO_LOC} {F19}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 503)] | Port r_3_in[3] has been placed at location F19, whose type is share pin.
+
+define_attribute {p:r_3_in[2]} {PAP_IO_LOC} {F20}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 508)] | Port r_3_in[2] has been placed at location F20, whose type is share pin.
+
+define_attribute {p:r_3_in[1]} {PAP_IO_LOC} {G19}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 513)] | Port r_3_in[1] has been placed at location G19, whose type is share pin.
+
+define_attribute {p:iic_sda} {PAP_IO_LOC} {A20}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 567)] | Port iic_sda has been placed at location A20, whose type is share pin.
+
+define_attribute {p:de_3_in} {PAP_IO_LOC} {F22}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 530)] | Port de_3_in has been placed at location F22, whose type is share pin.
+
+define_attribute {p:hs_3_in} {PAP_IO_LOC} {G20}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 535)] | Port hs_3_in has been placed at location G20, whose type is share pin.
+
+define_attribute {p:vs_3_in} {PAP_IO_LOC} {G22}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 545)] | Port vs_3_in has been placed at location G22, whose type is share pin.
+
+define_attribute {p:iic_scl} {PAP_IO_LOC} {C19}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 560)] | Port iic_scl has been placed at location C19, whose type is share pin.
+
+define_attribute {p:mem_dq[14]} {PAP_IO_LOC} {P3}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 826)] | Port mem_dq[14] has been placed at location P3, whose type is share pin.
+
+define_attribute {p:mem_dq[11]} {PAP_IO_LOC} {M1}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 847)] | Port mem_dq[11] has been placed at location M1, whose type is share pin.
+
+define_attribute {p:mem_dq[9]} {PAP_IO_LOC} {M2}
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/fpga_race/demo/final/HDMI_card/ddr3_ov5640_hdmi.fdc(line number: 861)] | Port mem_dq[9] has been placed at location M2, whose type is share pin.
+
+
+Constraints with issues:
+********************************************
+
+
+Issues without commands:
+********************************************
+
+
+Unconstrained ports:
+********************************************
+
+W: ConstraintEditor-4019: Port 'iic_rx_scl' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'iic_rx_sda' unspecified I/O constraint.
+
+Constraints with matching wildcard expressions:
+********************************************
+
+

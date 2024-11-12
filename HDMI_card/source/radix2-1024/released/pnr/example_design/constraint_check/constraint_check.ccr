@@ -1,0 +1,39 @@
+##### Written on 2024/11/03 00:38:41 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PGL50H-6FBG484
+
+Top Module : 
+	ipsxe_fft_onboard_top
+
+Constraint File(s) : 
+	C:/Users/14861/Desktop/radix2-1024/released/pnr/example_design/ipsxb_fft_onboard_top.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 0 critical warning(s), 0 warning(s), out of 26 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+
+Constraints with issues:
+********************************************
+
+
+Issues without commands:
+********************************************
+
+
+Unconstrained ports:
+********************************************
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+

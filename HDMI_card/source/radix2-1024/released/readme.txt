@@ -1,0 +1,27 @@
+--/example_design                                   // 设计实例包含的文件
+    -- /bench                                       // FFT IP Example Design Testbench
+        -- ipsxe_fft_onboard_tb.v                   // Example Design 顶层仿真文件
+    -- /rtl                                         // FFT IP Example Design中IP以外的代码文件
+        -- ipsxe_fft_onboard_top.v                  // Example Design 顶层模块
+        -- ipsxe_fft_frame_gen.v                    // Example Design 激励产生模块
+        -- ipsxe_fft_frame_chk.v                    // Example Design 结果检测模块
+        -- ipsxe_fft_sync_arstn.v                   // Example Design 异步复位同步模块
+--/pnr                                              // 综合布局布线工程
+    -- /example_design                              // FFT IP Example Design的综合布局布线工程文件及约束文件
+        -- ipsxb_fft_onboard_top.pds                // Example Design PDS工程文件
+        -- ipsxb_fft_onboard_top.fdc                // Example Design PDS约束文件
+--/rtl                                              // FFT IP Core包含的代码文件
+    -- /distram_sdpram                              // FFT IP调用的分布式RAM SDPRAM IP文件夹
+    -- /distram_sreg                                // FFT IP调用的分布式RAM移位寄存器IP文件夹
+    -- /drm_sdpram                                  // FFT IP调用的DRM SDPRAM IP文件夹
+    -- /synplify                                    // FFT IP Core加密代码文件夹，包含的代码文件仅用于综合
+--/sim                                              // Example Design simulation目录
+    --modelsim                                      // ModelSim仿真运行的.do文件及filelist
+        -- ipsxb_fft_onboard_top_sim.do             // 用于Example Design仿真运行的.do文件
+        -- ipsxb_fft_onboard_top_filelist.f         // 用于Example Design仿真的filelist，被ipsxe_fft_onboard_top_sim.do调用
+        -- ipsxb_fft_onboard_top_wave.do            // 用于Example Design仿真运行的波形加载.do文件，被ipsxe_fft_onboard_top_sim.do调用
+        -- sim.bat                                  // 用于Example Design运行ipsxe_fft_onboard_top_sim.do的脚本
+--/sim_lib                                          // FFT IP Core加密代码文件夹，包含的代码文件仅用于仿真
+  -- /modelsim                                      // 适用于ModelSim 10.2c和VCS 2020.03sp2的IP Core加密代码 _sim.vp
+--ipsxe_fft_exp_rom.v                               // 用于Example Design比对计算结果
+--ipsxb_fft_demo_xxx.v                              // IP的wrapper文件

@@ -1,0 +1,24 @@
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+Start time: 01:34:06 on Nov 03,2024
+vlog -reportprogress 300 -incr -sv E:/pango/PDS_2022.2-SP1-Lite/arch/vendor/pango/verilog/simulation/GTP_APM_E1.v E:/pango/PDS_2022.2-SP1-Lite/arch/vendor/pango/verilog/simulation/GTP_DRM9K.v E:/pango/PDS_2022.2-SP1-Lite/arch/vendor/pango/verilog/simulation/GTP_GRS.v -f ./ipsxb_fft_onboard_top_filelist.f -l vlog.log 
+-- Compiling module GTP_APM_E1
+-- Compiling module GTP_DRM9K
+-- Compiling module GTP_GRS
+-- Compiling module ipsxe_fft_onboard_top
+-- Compiling module ipsxe_fft_frame_gen
+-- Compiling module ipsxe_fft_frame_chk
+-- Compiling module ipsxe_fft_sync_arstn
+-- Compiling module ipsxe_fft_exp_rom
+-- Compiling module ipsxe_fft_onboard_top_tb
+-- Compiling module ipsxb_fft_demo_pp_1024
+-- Compiling module ipsxb_fft_drm_sdpram_9k
+-- Compiling module ipsxb_fft_drm_sdpram_v1_8_9k
+-- Compiling module ipsxe_fft_distram_sreg
+-- Compiling module ipsxe_fft_distributed_shiftregister_v1_3
+-- Compiling module ipsxe_fft_distributed_sdpram_v1_2
+-- Compiling module ipsxe_fft_distram_sdpram
+
+Top level modules:
+	ipsxe_fft_onboard_top_tb
+End time: 01:34:10 on Nov 03,2024, Elapsed time: 0:00:04
+Errors: 0, Warnings: 0
