@@ -1,0 +1,20 @@
+###==== BEGIN Clocks
+create_clock -name {free_clk}  -period {20}
+create_clock -name {P_REFCKN} -period {8}
+create_clock -name {P_REFCKP} -period {8}
+###==== END Clocks
+
+###==== BEGIN "Generated Clocks"
+###==== END "Generated Clocks"
+
+###==== BEGIN "Inputs/Outpusts"
+###==== END "Inputs/Outpusts"
+
+###==== BEGIN "Delay Paths"
+###==== END "Delay Paths"
+
+###==== BEGIN Attributes - (Populated from tab in SCOPE, do not edit)
+###==== END Attributes
+
+###==== BEGIN Attributes - IO table (Populated from tab in SCOPE, do not edit)
+###==== END Attributes(IO table)

@@ -1,0 +1,23 @@
+# Written on 07/10/2024   15:22:25
+
+##### INFO ########################################################
+
+Current device : PGL50H-6FBG484
+Top Module : top
+Constraint File(s) : C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc
+
+##### SUMMARY ############################################################
+
+Found 0 error(s), 6 critical_warning(s), 0 warning(s).
+
+##### DETAILS ############################################################
+
+
+
+C: SDC-2017: Nothing implicitly matched 'cfg_clk'.
+C: SDC-2027: One or more clocks can not find in the group '[get_clocks cfg_clk]', command 'set_clock_groups' is ignored.
+C: ConstraintEditor-2002: "IO Table" row:18 | Port mem_dq[14] has been placed at location P3, whose type is share pin.
+C: ConstraintEditor-2002: "IO Table" row:21 | Port mem_dq[11] has been placed at location M1, whose type is share pin.
+C: ConstraintEditor-2002: "IO Table" row:23 | Port mem_dq[9] has been placed at location M2, whose type is share pin.
+C: ConstraintEditor-2002: "IO Table" row:135 | Port rst_n has been placed at location K18, whose type is share pin.
+

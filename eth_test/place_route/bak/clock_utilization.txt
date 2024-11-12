@@ -1,0 +1,117 @@
+Clock Regions-Block Scope:
++--------------------------------------------------------------------------+
+| (X0,Y*): (Xmin,Xmax,Ymin,Ymax)     | (X1,Y*): (Xmin,Xmax,Ymin,Ymax)     
++--------------------------------------------------------------------------+
+| (X0,Y2): (0,79,61,91)              | (X1,Y2): (80,165,61,91)            
+| (X0,Y1): (0,79,31,60)              | (X1,Y1): (80,165,31,60)            
+| (X0,Y0): (0,79,0,30)               | (X1,Y0): (80,165,0,30)             
++--------------------------------------------------------------------------+
+
+Clock Regions-Clock Primitives:
++--------------------------------------------------------------------------------------------------------------------------------------+
+| Clock Region Name     | CLK PAD     | PLL PAD     | RCKB     | IOCKGATE     | IOCKDIV     | CLMA     | CLMS     | DRM     | APM     
++--------------------------------------------------------------------------------------------------------------------------------------+
+| (X0,Y0)               | 2           | 2           | 4        | 4            | 4           | 1120     | 714      | 24      | 10      
+| (X0,Y1)               | 8           | 8           | 4        | 2            | 2           | 1040     | 680      | 21      | 10      
+| (X0,Y2)               | 0           | 0           | 4        | 4            | 4           | 817      | 561      | 19      | 7       
+| (X1,Y0)               | 6           | 6           | 4        | 4            | 4           | 1189     | 783      | 24      | 20      
+| (X1,Y1)               | 8           | 8           | 4        | 2            | 2           | 1230     | 810      | 24      | 20      
+| (X1,Y2)               | 8           | 8           | 4        | 4            | 4           | 1054     | 702      | 22      | 17      
++--------------------------------------------------------------------------------------------------------------------------------------+
+
+Global Clock Buffer Constraint Details:
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source  Name                                                | Source Pin         | Source-Buffer Net     | Buffer Input Pin     | Buffer  Name              | Buffer Output Pin     | Buffer-Load Net     | Clock Region Of Buffer Site     | Buffer Site     | IO Load Clock Region     | Non-IO Load Clock Region     | Clock Loads     | Non-Clock Loads     
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[1]     | p3_sgmii_clk_sfp0     | CLK                  | clkbufg_3/gopclkbufg      | CLKOUT                | ntclkbufg_0         |  ---                            |  ---            |  ---                     | (75,75,82,82)                | 2277            | 1                   
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[2]     | p3_sgmii_clk_u10      | CLK                  | clkbufg_4/gopclkbufg      | CLKOUT                | ntclkbufg_1         |  ---                            |  ---            |  ---                     | (75,75,82,82)                | 2057            | 1                   
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[3]     | p3_sgmii_clk_u2       | CLK                  | clkbufg_5/gopclkbufg      | CLKOUT                | ntclkbufg_2         |  ---                            |  ---            |  ---                     | (75,75,82,82)                | 2043            | 1                   
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[0]     | p3_sgmii_clk_sfp1     | CLK                  | clkbufg_6/gopclkbufg      | CLKOUT                | ntclkbufg_3         |  ---                            |  ---            |  ---                     | (75,75,82,82)                | 2031            | 1                   
+| free_clk_ibuf/opit_1                                        | INCK               | _N21                  | CLK                  | clkbufg_7/gopclkbufg      | CLKOUT                | ntclkbufg_4         |  ---                            |  ---            |  ---                     |  ---                         | 683             | 0                   
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[2]     | o_p_clk2core_rx_2     | CLK                  | clkbufg_8/gopclkbufg      | CLKOUT                | ntclkbufg_5         |  ---                            |  ---            |  ---                     | (75,75,82,82)                | 609             | 1                   
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[3]     | o_p_clk2core_rx_3     | CLK                  | clkbufg_9/gopclkbufg      | CLKOUT                | ntclkbufg_6         |  ---                            |  ---            |  ---                     | (75,75,82,82)                | 609             | 1                   
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[0]     | o_p_clk2core_rx_0     | CLK                  | clkbufg_10/gopclkbufg     | CLKOUT                | ntclkbufg_7         |  ---                            |  ---            |  ---                     | (75,75,82,82)                | 609             | 1                   
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[1]     | o_p_clk2core_rx_1     | CLK                  | clkbufg_11/gopclkbufg     | CLKOUT                | ntclkbufg_8         |  ---                            |  ---            |  ---                     | (75,75,82,82)                | 609             | 1                   
+| u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/gopclkdiv     | CLKDIV             | nt_u2_mdc_o           | CLK                  | clkbufg_12/gopclkbufg     | CLKOUT                | ntclkbufg_9         |  ---                            |  ---            |  ---                     |  ---                         | 154             | 0                   
+| u_CORES/u_GTP_SCANCHAIN_PG/scanchain                        | TCK_USER           | u_CORES/drck_o        | CLK                  | clkbufg_13/gopclkbufg     | CLKOUT                | ntclkbufg_10        |  ---                            |  ---            |  ---                     |  ---                         | 127             | 0                   
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Global Clock Source Constraint Details:
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source Name                                                 | Source Pin         | Source-Load Net       | Clock Region Of Source Site     | Source Site         | Clock Buffer Loads     | Non-Clock Buffer Loads     
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[1]     | p3_sgmii_clk_sfp0     | (X0,Y2)                         | HSST_88_340         | 1                      | 2                          
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[2]     | p3_sgmii_clk_u10      | (X0,Y2)                         | HSST_88_340         | 1                      | 0                          
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[3]     | p3_sgmii_clk_u2       | (X0,Y2)                         | HSST_88_340         | 1                      | 0                          
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[0]     | p3_sgmii_clk_sfp1     | (X0,Y2)                         | HSST_88_340         | 1                      | 0                          
+| free_clk_ibuf/opit_1                                        | INCK               | _N21                  | (X1,Y1)                         | IOL_327_210         | 2                      | 0                          
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[2]     | o_p_clk2core_rx_2     | (X0,Y2)                         | HSST_88_340         | 1                      | 0                          
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[3]     | o_p_clk2core_rx_3     | (X0,Y2)                         | HSST_88_340         | 1                      | 0                          
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[0]     | o_p_clk2core_rx_0     | (X0,Y2)                         | HSST_88_340         | 1                      | 0                          
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[1]     | o_p_clk2core_rx_1     | (X0,Y2)                         | HSST_88_340         | 1                      | 0                          
+| u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/gopclkdiv     | CLKDIV             | nt_u2_mdc_o           |  ---                            |  ---                | 1                      | 2                          
+| u_CORES/u_GTP_SCANCHAIN_PG/scanchain                        | TCK_USER           | u_CORES/drck_o        | (X1,Y0)                         | SCANCHAIN_325_0     | 1                      | 0                          
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+IO Clock Buffer Constraint Details:
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source  Name             | Source Pin     | Source-Buffer Net     | Buffer Input Pin     | Buffer  Name              | Buffer Output Pin     | Buffer-Load Net     | Clock Region Of Buffer Site     | Buffer Site     | IO Load Clock Region     | Non-IO Load Clock Region     | Clock Loads     | Non-Clock Loads     
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| free_clk_ibuf/opit_1     | INCK           | _N21                  | CLK                  | clkgate_14/gopclkgate     | OUT                   | ntclkgate_0         |  ---                            |  ---            |  ---                     |  ---                         | 0               | 1                   
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+IO Clock Source Constraint Details:
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source Name              | Source Pin     | Source-Load Net     | Clock Region Of Source Site     | Source Site     | Clock Buffer Loads     | Non-Clock Buffer Loads     
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| free_clk_ibuf/opit_1     | INCK           | _N21                | (X1,Y1)                         | IOL_327_210     | 2                      | 0                          
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Device Cell Placement Summary for Global Clock Buffer:
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source  Name                                                | Source  Pin        | Source-Buffer Net     | Buffer Input Pin     | Buffer  Name              | Buffer Output Pin     | Buffer-Load Net     | Buffer Site     | IO Load Clock Region     | Non-IO Load Clock Region     | Clock Loads     | Non-Clock Loads     
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[1]     | p3_sgmii_clk_sfp0     | CLK                  | clkbufg_3/gopclkbufg      | CLKOUT                | ntclkbufg_0         | USCM_84_108     |  ---                     | (35,149,31,86)               | 2277            | 1                   
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[2]     | p3_sgmii_clk_u10      | CLK                  | clkbufg_4/gopclkbufg      | CLKOUT                | ntclkbufg_1         | USCM_84_109     |  ---                     | (58,148,31,86)               | 2057            | 1                   
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[3]     | p3_sgmii_clk_u2       | CLK                  | clkbufg_5/gopclkbufg      | CLKOUT                | ntclkbufg_2         | USCM_84_110     |  ---                     | (58,134,26,82)               | 2043            | 1                   
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[0]     | p3_sgmii_clk_sfp1     | CLK                  | clkbufg_6/gopclkbufg      | CLKOUT                | ntclkbufg_3         | USCM_84_111     |  ---                     | (33,122,27,82)               | 2031            | 1                   
+| free_clk_ibuf/opit_1                                        | INCK               | _N21                  | CLK                  | clkbufg_7/gopclkbufg      | CLKOUT                | ntclkbufg_4         | USCM_84_112     |  ---                     | (30,159,37,84)               | 683             | 0                   
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[2]     | o_p_clk2core_rx_2     | CLK                  | clkbufg_8/gopclkbufg      | CLKOUT                | ntclkbufg_5         | USCM_84_113     |  ---                     | (68,135,67,85)               | 609             | 1                   
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[3]     | o_p_clk2core_rx_3     | CLK                  | clkbufg_9/gopclkbufg      | CLKOUT                | ntclkbufg_6         | USCM_84_114     |  ---                     | (74,132,47,82)               | 609             | 1                   
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[0]     | o_p_clk2core_rx_0     | CLK                  | clkbufg_10/gopclkbufg     | CLKOUT                | ntclkbufg_7         | USCM_84_115     |  ---                     | (30,77,45,83)                | 609             | 1                   
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[1]     | o_p_clk2core_rx_1     | CLK                  | clkbufg_11/gopclkbufg     | CLKOUT                | ntclkbufg_8         | USCM_84_116     |  ---                     | (33,95,57,82)                | 609             | 1                   
+| u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/gopclkdiv     | CLKDIV             | nt_u2_mdc_o           | CLK                  | clkbufg_12/gopclkbufg     | CLKOUT                | ntclkbufg_9         | USCM_84_117     |  ---                     | (136,158,33,43)              | 154             | 0                   
+| u_CORES/u_GTP_SCANCHAIN_PG/scanchain                        | TCK_USER           | u_CORES/drck_o        | CLK                  | clkbufg_13/gopclkbufg     | CLKOUT                | ntclkbufg_10        | USCM_84_118     |  ---                     | (128,147,12,46)              | 127             | 0                   
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Device Cell Placement Summary for Global Clock Source:
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source Name                                                 | Source  Pin        | Source-Load Net       | Source Site         | Clock Buffer Loads     | Non-Clock Buffer Loads     
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[1]     | p3_sgmii_clk_sfp0     | HSST_88_340         | 1                      | 2                          
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[2]     | p3_sgmii_clk_u10      | HSST_88_340         | 1                      | 0                          
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[3]     | p3_sgmii_clk_u2       | HSST_88_340         | 1                      | 0                          
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | TCLK2FABRIC[0]     | p3_sgmii_clk_sfp1     | HSST_88_340         | 1                      | 0                          
+| free_clk_ibuf/opit_1                                        | INCK               | _N21                  | IOL_327_210         | 2                      | 0                          
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[2]     | o_p_clk2core_rx_2     | HSST_88_340         | 1                      | 0                          
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[3]     | o_p_clk2core_rx_3     | HSST_88_340         | 1                      | 0                          
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[0]     | o_p_clk2core_rx_0     | HSST_88_340         | 1                      | 0                          
+| u_hsst_test/U_GTP_HSST_WRAPPER/U_GTP_HSST/hsst              | RCLK2FABRIC[1]     | o_p_clk2core_rx_1     | HSST_88_340         | 1                      | 0                          
+| u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/gopclkdiv     | CLKDIV             | nt_u2_mdc_o           | IOCKDIV_326_323     | 1                      | 2                          
+| u_CORES/u_GTP_SCANCHAIN_PG/scanchain                        | TCK_USER           | u_CORES/drck_o        | SCANCHAIN_325_0     | 1                      | 0                          
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Device Cell Placement Summary for IO Clock Buffer:
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source  Name             | Source  Pin     | Source-Buffer Net     | Buffer Input Pin     | Buffer  Name              | Buffer Output Pin     | Buffer-Load Net     | Buffer Site          | IO Load Clock Region     | Non-IO Load Clock Region     | Clock Loads     | Non-Clock Loads     
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| free_clk_ibuf/opit_1     | INCK            | _N21                  | CLK                  | clkgate_14/gopclkgate     | OUT                   | ntclkgate_0         | IOCKGATE_326_322     |  ---                     | (160,160,78,78)              | 0               | 1                   
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Device Cell Placement Summary for IO Clock Source:
++-------------------------------------------------------------------------------------------------------------------------------------------+
+| Source Name              | Source  Pin     | Source-Load Net     | Source Site     | Clock Buffer Loads     | Non-Clock Buffer Loads     
++-------------------------------------------------------------------------------------------------------------------------------------------+
+| free_clk_ibuf/opit_1     | INCK            | _N21                | IOL_327_210     | 2                      | 0                          
++-------------------------------------------------------------------------------------------------------------------------------------------+
+

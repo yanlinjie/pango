@@ -1,0 +1,2687 @@
+[Info] [2024-9-19 16:12:48] /***************************Start jtagserver***************************/
+[Info] [2024-9-19 16:12:48] Path: D:/pds_2022_1/PDS_2022.1/bin
+[Info] [2024-9-19 16:12:48] Version: 99559
+[Debug] [2024-9-19 16:12:48] Add a new user_thread, socket descriptor is 1016 user_thread id is 0000000000005FAC
+[Debug] [2024-9-19 16:12:48] After adding, map size is : 1
+[Debug] [2024-9-19 16:12:48] Add a new user_thread, socket descriptor is 1020 user_thread id is 0000000000005FAC
+[Debug] [2024-9-19 16:12:48] After adding, map size is : 2
+[Debug] [2024-9-19 16:12:48] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-9-19 16:12:48] IP address of connecting client is : ::ffff:127.0.0.1IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-9-19 16:12:48] Remove the header data from the client, index : 0
+[Debug] [2024-9-19 16:12:48] _total_bytes_size : 146
+[Debug] [2024-9-19 16:12:48] Remove the header data from the client, index : 0
+[Debug] [2024-9-19 16:12:48] _total_bytes_size : 96
+[Debug] [2024-9-19 16:12:48] cmd id :40011cmd name : get_cable_paras
+[Debug] [2024-9-19 16:12:50] cmd operation get_cable_paras releases locker
+[Debug] [2024-9-19 16:12:50] Remove the header data from the client, index : 0
+[Debug] [2024-9-19 16:12:50] _total_bytes_size : 101
+[Debug] [2024-9-19 16:12:50] cmd id :20001cmd name : Open config cable
+[Debug] [2024-9-19 16:12:50] the idcode from the scanning is: 0x10521899
+[Debug] [2024-9-19 16:12:50] the idcode from the scanning is: 0x0
+[Debug] [2024-9-19 16:12:50] the idcode from the scanning is: 0x0
+[Debug] [2024-9-19 16:12:50] the idcode from the scanning is: 0x0
+[Debug] [2024-9-19 16:12:50] the idcode from the scanning is: 0x0
+[Debug] [2024-9-19 16:12:50] cmd operation Open config cable releases locker
+[Debug] [2024-9-19 16:13:25] Remove the header data from the client, index : 0
+[Debug] [2024-9-19 16:13:25] _total_bytes_size : 22e
+[Debug] [2024-9-19 16:13:25] cmd id :4e22cmd name : Program
+[Debug] [2024-9-19 16:13:26] the idcode from the scanning is: 0x10521899
+[Debug] [2024-9-19 16:13:26] the idcode from the scanning is: 0x0
+[Debug] [2024-9-19 16:13:26] the idcode from the scanning is: 0x0
+[Debug] [2024-9-19 16:13:26] the idcode from the scanning is: 0x0
+[Debug] [2024-9-19 16:13:26] the idcode from the scanning is: 0x0
+[Debug] [2024-9-19 16:13:26] begin to read back config registerregAddr is 4
+[Debug] [2024-9-19 16:13:26] progress bar is 6
+[Debug] [2024-9-19 16:13:26] progress bar is 10
+[Debug] [2024-9-19 16:13:26] progress bar is 15
+[Debug] [2024-9-19 16:13:26] progress bar is 20
+[Debug] [2024-9-19 16:13:26] progress bar is 25
+[Debug] [2024-9-19 16:13:26] progress bar is 30
+[Debug] [2024-9-19 16:13:26] progress bar is 35
+[Debug] [2024-9-19 16:13:26] progress bar is 40
+[Debug] [2024-9-19 16:13:26] progress bar is 45
+[Debug] [2024-9-19 16:13:26] progress bar is 50
+[Debug] [2024-9-19 16:13:27] progress bar is 55
+[Debug] [2024-9-19 16:13:27] progress bar is 60
+[Debug] [2024-9-19 16:13:27] progress bar is 65
+[Debug] [2024-9-19 16:13:27] progress bar is 70
+[Debug] [2024-9-19 16:13:27] progress bar is 75
+[Debug] [2024-9-19 16:13:27] progress bar is 80
+[Debug] [2024-9-19 16:13:27] progress bar is 85
+[Debug] [2024-9-19 16:13:27] progress bar is 90
+[Debug] [2024-9-19 16:13:27] progress bar is 95
+[Debug] [2024-9-19 16:13:27] progress bar is 100
+[Debug] [2024-9-19 16:13:27] the value in the status register is :2096288
+[Debug] [2024-9-19 16:13:28] cmd operation Program releases locker
+[Debug] [2024-9-19 16:27:58] Remove the header data from the client, index : 0
+[Debug] [2024-9-19 16:27:58] _total_bytes_size : 101
+[Debug] [2024-9-19 16:27:58] cmd id :20001cmd name : Open config cable
+[Debug] [2024-9-19 16:27:59] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:27:59] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:27:59] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:27:59] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:27:59] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:27:59] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:27:59] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:27:59] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:27:59] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:27:59] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:00] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:00] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:00] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:00] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:00] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:01] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:01] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:01] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:01] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:01] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:01] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:01] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:01] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:01] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:01] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:02] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:02] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:02] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:02] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:02] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:02] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:02] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:02] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:02] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:02] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:03] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:03] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:03] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:03] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:03] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:04] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:04] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:04] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:04] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:04] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:04] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:04] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:04] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:04] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:04] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:05] cmd operation Open config cable releases locker
+[Info] [2024-9-19 16:28:11] /***************************Start jtagserver***************************/
+[Info] [2024-9-19 16:28:11] Path: D:/pds_2022_1/PDS_2022.1/bin
+[Info] [2024-9-19 16:28:11] Version: 99559
+[Debug] [2024-9-19 16:28:12] Add a new user_thread, socket descriptor is 1208 user_thread id is 00000000000072FC
+[Debug] [2024-9-19 16:28:12] After adding, map size is : 1
+[Debug] [2024-9-19 16:28:12] Add a new user_thread, socket descriptor is 1132 user_thread id is 00000000000072FC
+[Debug] [2024-9-19 16:28:12] After adding, map size is : 2
+[Debug] [2024-9-19 16:28:12] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-9-19 16:28:12] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-9-19 16:28:12] Remove the header data from the client, index : 0
+[Debug] [2024-9-19 16:28:12] _total_bytes_size : 146
+[Debug] [2024-9-19 16:28:12] Remove the header data from the client, index : 0
+[Debug] [2024-9-19 16:28:12] _total_bytes_size : 96
+[Debug] [2024-9-19 16:28:12] cmd id :40011cmd name : get_cable_paras
+[Debug] [2024-9-19 16:28:13] cmd operation get_cable_paras releases locker
+[Debug] [2024-9-19 16:28:13] Remove the header data from the client, index : 0
+[Debug] [2024-9-19 16:28:13] _total_bytes_size : 101
+[Debug] [2024-9-19 16:28:13] cmd id :20001cmd name : Open config cable
+[Debug] [2024-9-19 16:28:14] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:14] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:14] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:14] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:14] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:14] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:14] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:14] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:14] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:14] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:15] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:15] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:15] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:15] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:15] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:16] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:16] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:16] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:16] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:16] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:16] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:16] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:16] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:16] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:16] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:17] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:17] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:17] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:17] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:17] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:18] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:18] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:18] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:18] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:18] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:18] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:18] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:18] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:18] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:18] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:19] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:19] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:19] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:19] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:19] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:20] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:20] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:20] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:20] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:20] the idcode from the scanning is: 0xffffffff
+[Debug] [2024-9-19 16:28:20] cmd operation Open config cable releases locker
+[Info] [2024-10-8 09:43:16] /***************************Start jtagserver***************************/
+[Info] [2024-10-8 09:43:16] Path: D:/pds_2022_1/PDS_2022.1/bin
+[Info] [2024-10-8 09:43:16] Version: 99559
+[Debug] [2024-10-8 09:43:17] Add a new user_thread, socket descriptor is 1272 user_thread id is 00000000000142A8
+[Debug] [2024-10-8 09:43:17] After adding, map size is : 1
+[Debug] [2024-10-8 09:43:17] Add a new user_thread, socket descriptor is 1280 user_thread id is 00000000000142A8
+[Debug] [2024-10-8 09:43:17] After adding, map size is : 2
+[Debug] [2024-10-8 09:43:17] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-10-8 09:43:17] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-10-8 09:43:17] Remove the header data from the client, index : 0
+[Debug] [2024-10-8 09:43:17] _total_bytes_size : 146
+[Debug] [2024-10-8 09:43:17] Remove the header data from the client, index : 0
+[Debug] [2024-10-8 09:43:17] _total_bytes_size : 96
+[Debug] [2024-10-8 09:43:17] cmd id :40011cmd name : get_cable_paras
+[Debug] [2024-10-8 09:43:18] cmd operation get_cable_paras releases locker
+[Debug] [2024-10-8 09:43:18] Remove the header data from the client, index : 0
+[Debug] [2024-10-8 09:43:18] _total_bytes_size : 101
+[Debug] [2024-10-8 09:43:18] cmd id :20001cmd name : Open config cable
+[Error] [2024-10-8 09:43:18] Hardware handler is invalid
+[Debug] [2024-10-8 09:43:18] cmd operation Open config cable releases locker
+[Debug] [2024-10-8 09:43:27] Remove the header data from the client, index : 0
+[Debug] [2024-10-8 09:43:27] _total_bytes_size : 101
+[Debug] [2024-10-8 09:43:27] cmd id :20001cmd name : Open config cable
+[Error] [2024-10-8 09:43:27] Hardware handler is invalid
+[Debug] [2024-10-8 09:43:27] cmd operation Open config cable releases locker
+[Debug] [2024-10-8 09:43:29] Remove the header data from the client, index : 0
+[Debug] [2024-10-8 09:43:29] _total_bytes_size : 101
+[Debug] [2024-10-8 09:43:29] cmd id :20001cmd name : Open config cable
+[Error] [2024-10-8 09:43:29] Hardware handler is invalid
+[Debug] [2024-10-8 09:43:29] cmd operation Open config cable releases locker
+[Debug] [2024-10-8 09:43:31] Remove the header data from the client, index : 0
+[Debug] [2024-10-8 09:43:31] _total_bytes_size : 101
+[Debug] [2024-10-8 09:43:31] cmd id :20001cmd name : Open config cable
+[Error] [2024-10-8 09:43:31] Hardware handler is invalid
+[Debug] [2024-10-8 09:43:31] cmd operation Open config cable releases locker
+[Info] [2024-10-8 09:43:36] /***************************Start jtagserver***************************/
+[Info] [2024-10-8 09:43:36] Path: D:/pds_2022_1/PDS_2022.1/bin
+[Info] [2024-10-8 09:43:36] Version: 99559
+[Debug] [2024-10-8 09:43:38] Add a new user_thread, socket descriptor is 1276 user_thread id is 00000000000146D4
+[Debug] [2024-10-8 09:43:38] After adding, map size is : 1
+[Debug] [2024-10-8 09:43:38] Add a new user_thread, socket descriptor is 1112 user_thread id is 00000000000146D4
+[Debug] [2024-10-8 09:43:38] After adding, map size is : 2
+[Debug] [2024-10-8 09:43:38] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-10-8 09:43:38] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-10-8 09:43:38] Remove the header data from the client, index : 0
+[Debug] [2024-10-8 09:43:38] _total_bytes_size : 146
+[Debug] [2024-10-8 09:43:38] Remove the header data from the client, index : 0
+[Debug] [2024-10-8 09:43:38] _total_bytes_size : 96
+[Debug] [2024-10-8 09:43:38] cmd id :40011cmd name : get_cable_paras
+[Debug] [2024-10-8 09:43:40] cmd operation get_cable_paras releases locker
+[Debug] [2024-10-8 09:43:40] Remove the header data from the client, index : 0
+[Debug] [2024-10-8 09:43:40] _total_bytes_size : 101
+[Debug] [2024-10-8 09:43:40] cmd id :20001cmd name : Open config cable
+[Debug] [2024-10-8 09:43:41] the idcode from the scanning is: 0x10521899
+[Debug] [2024-10-8 09:43:41] the idcode from the scanning is: 0x0
+[Debug] [2024-10-8 09:43:41] the idcode from the scanning is: 0x0
+[Debug] [2024-10-8 09:43:41] the idcode from the scanning is: 0x0
+[Debug] [2024-10-8 09:43:41] the idcode from the scanning is: 0x0
+[Debug] [2024-10-8 09:43:41] cmd operation Open config cable releases locker
+[Debug] [2024-10-8 09:43:43] Remove the header data from the client, index : 0
+[Debug] [2024-10-8 09:43:43] _total_bytes_size : 22e
+[Debug] [2024-10-8 09:43:43] cmd id :4e22cmd name : Program
+[Debug] [2024-10-8 09:43:43] the idcode from the scanning is: 0x10521899
+[Debug] [2024-10-8 09:43:43] the idcode from the scanning is: 0x0
+[Debug] [2024-10-8 09:43:43] the idcode from the scanning is: 0x0
+[Debug] [2024-10-8 09:43:43] the idcode from the scanning is: 0x0
+[Debug] [2024-10-8 09:43:43] the idcode from the scanning is: 0x0
+[Debug] [2024-10-8 09:43:43] begin to read back config registerregAddr is 4
+[Debug] [2024-10-8 09:43:43] progress bar is 6
+[Debug] [2024-10-8 09:43:43] progress bar is 10
+[Debug] [2024-10-8 09:43:43] progress bar is 15
+[Debug] [2024-10-8 09:43:43] progress bar is 20
+[Debug] [2024-10-8 09:43:43] progress bar is 25
+[Debug] [2024-10-8 09:43:44] progress bar is 30
+[Debug] [2024-10-8 09:43:44] progress bar is 35
+[Debug] [2024-10-8 09:43:44] progress bar is 40
+[Debug] [2024-10-8 09:43:44] progress bar is 45
+[Debug] [2024-10-8 09:43:44] progress bar is 50
+[Debug] [2024-10-8 09:43:44] progress bar is 55
+[Debug] [2024-10-8 09:43:44] progress bar is 60
+[Debug] [2024-10-8 09:43:44] progress bar is 65
+[Debug] [2024-10-8 09:43:44] progress bar is 70
+[Debug] [2024-10-8 09:43:44] progress bar is 75
+[Debug] [2024-10-8 09:43:44] progress bar is 80
+[Debug] [2024-10-8 09:43:45] progress bar is 85
+[Debug] [2024-10-8 09:43:45] progress bar is 90
+[Debug] [2024-10-8 09:43:45] progress bar is 95
+[Debug] [2024-10-8 09:43:45] progress bar is 100
+[Debug] [2024-10-8 09:43:45] the value in the status register is :2096288
+[Debug] [2024-10-8 09:43:45] cmd operation Program releases locker
+[Info] [2024-11-9 10:53:15] /***************************Start jtagserver***************************/
+[Info] [2024-11-9 10:53:15] Path: E:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-11-9 10:53:15] Version: 132640
+[Debug] [2024-11-9 10:53:16] Add a new user_thread, socket descriptor is 1340 user_thread id is 0000000000007A98
+[Debug] [2024-11-9 10:53:16] After adding, map size is : 1
+[Debug] [2024-11-9 10:53:16] Add a new user_thread, socket descriptor is 1348 user_thread id is 0000000000007A98
+[Debug] [2024-11-9 10:53:16] After adding, map size is : 2
+[Debug] [2024-11-9 10:53:16] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-9 10:53:16] IP address of connecting client is : ::ffff:127.0.0.1IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-9 10:53:16] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 10:53:16] _total_bytes_size : 166
+[Debug] [2024-11-9 10:53:16] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 10:53:16] _total_bytes_size : 96
+[Debug] [2024-11-9 10:53:16] cmd id :40010cmd name : get_cable_paras
+[Debug] [2024-11-9 10:53:17] cmd operation get_cable_paras releases locker
+[Debug] [2024-11-9 10:53:17] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 10:53:17] _total_bytes_size : 101
+[Debug] [2024-11-9 10:53:17] cmd id :20001cmd name : Open config cable
+[Debug] [2024-11-9 10:53:17] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 10:53:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 10:53:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 10:53:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 10:53:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 10:53:17] cmd operation Open config cable releases locker
+[Debug] [2024-11-9 10:53:19] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 10:53:19] _total_bytes_size : 262
+[Debug] [2024-11-9 10:53:19] cmd id :4e22cmd name : Program
+[Debug] [2024-11-9 10:53:19] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 10:53:19] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 10:53:19] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 10:53:19] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 10:53:19] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 10:53:19] begin to read back config registerregAddr is 4
+[Debug] [2024-11-9 10:53:19] progress bar is 6
+[Debug] [2024-11-9 10:53:19] progress bar is 10
+[Debug] [2024-11-9 10:53:20] progress bar is 15
+[Debug] [2024-11-9 10:53:20] progress bar is 20
+[Debug] [2024-11-9 10:53:20] progress bar is 25
+[Debug] [2024-11-9 10:53:20] progress bar is 30
+[Debug] [2024-11-9 10:53:20] progress bar is 35
+[Debug] [2024-11-9 10:53:20] progress bar is 40
+[Debug] [2024-11-9 10:53:20] progress bar is 45
+[Debug] [2024-11-9 10:53:20] progress bar is 50
+[Debug] [2024-11-9 10:53:20] progress bar is 55
+[Debug] [2024-11-9 10:53:20] progress bar is 60
+[Debug] [2024-11-9 10:53:20] progress bar is 65
+[Debug] [2024-11-9 10:53:21] progress bar is 70
+[Debug] [2024-11-9 10:53:21] progress bar is 75
+[Debug] [2024-11-9 10:53:21] progress bar is 80
+[Debug] [2024-11-9 10:53:21] progress bar is 85
+[Debug] [2024-11-9 10:53:21] progress bar is 90
+[Debug] [2024-11-9 10:53:21] progress bar is 95
+[Debug] [2024-11-9 10:53:21] progress bar is 100
+[Debug] [2024-11-9 10:53:21] the value in the status register is :2096288
+[Debug] [2024-11-9 10:53:21] cmd operation Program releases locker
+[Info] [2024-11-9 11:14:32] /***************************Start jtagserver***************************/
+[Info] [2024-11-9 11:14:32] Path: E:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-11-9 11:14:32] Version: 132640
+[Debug] [2024-11-9 11:14:33] Add a new user_thread, socket descriptor is 1304 user_thread id is 00000000000059E4
+[Debug] [2024-11-9 11:14:33] After adding, map size is : 1
+[Debug] [2024-11-9 11:14:33] Add a new user_thread, socket descriptor is 1268 user_thread id is 00000000000059E4
+[Debug] [2024-11-9 11:14:33] After adding, map size is : 2
+[Debug] [2024-11-9 11:14:33] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-9 11:14:33] IP address of connecting client is : ::ffff:127.0.0.1IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-9 11:14:33] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 11:14:33] _total_bytes_size : 166
+[Debug] [2024-11-9 11:14:33] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 11:14:33] _total_bytes_size : 96
+[Debug] [2024-11-9 11:14:33] cmd id :40010cmd name : get_cable_paras
+[Debug] [2024-11-9 11:14:34] cmd operation get_cable_paras releases locker
+[Debug] [2024-11-9 11:14:34] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 11:14:34] _total_bytes_size : 90
+[Debug] [2024-11-9 11:14:34] cmd id :10001cmd name : open_cable
+[Debug] [2024-11-9 11:14:34] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 11:14:34] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:14:34] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:14:34] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:14:34] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:14:34] use jtag hub: USERDR1
+[Warn] [2024-11-9 11:14:34] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 10 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 11 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 12 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 13 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 14 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 15 is invalid : 0xffffffff
+[Debug] [2024-11-9 11:14:34] use jtag hub: USERDR2
+[Warn] [2024-11-9 11:14:34] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 10 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 11 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 12 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 13 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 14 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 15 is invalid : 0xffffffff
+[Debug] [2024-11-9 11:14:34] use jtag hub: USERDR3
+[Warn] [2024-11-9 11:14:34] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 11:14:34] use jtag hub: USERDR4
+[Warn] [2024-11-9 11:14:34] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 11:14:34] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 11:14:34] use jtag hub: USERDR1
+[Warn] [2024-11-9 11:14:34] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 10 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 11 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 12 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 13 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 14 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 15 is invalid : 0xffffffff
+[Debug] [2024-11-9 11:14:34] use jtag hub: USERDR2
+[Warn] [2024-11-9 11:14:34] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:34] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:35] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:35] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:35] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:35] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:35] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:35] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:35] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:35] Version id of degug core 10 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:35] Version id of degug core 11 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:35] Version id of degug core 12 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:35] Version id of degug core 13 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:35] Version id of degug core 14 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:35] Version id of degug core 15 is invalid : 0xffffffff
+[Debug] [2024-11-9 11:14:35] use jtag hub: USERDR3
+[Warn] [2024-11-9 11:14:35] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 11:14:35] use jtag hub: USERDR4
+[Warn] [2024-11-9 11:14:35] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 11:14:35] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 11:14:35] use jtag hub: USERDR1
+[Warn] [2024-11-9 11:14:35] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 11:14:35] use jtag hub: USERDR2
+[Warn] [2024-11-9 11:14:35] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 11:14:35] use jtag hub: USERDR3
+[Warn] [2024-11-9 11:14:35] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 11:14:35] use jtag hub: USERDR4
+[Warn] [2024-11-9 11:14:35] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 11:14:35] use jtag hub: USERDR1
+[Warn] [2024-11-9 11:14:35] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 11:14:35] use jtag hub: USERDR2
+[Warn] [2024-11-9 11:14:35] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 11:14:35] use jtag hub: USERDR3
+[Warn] [2024-11-9 11:14:35] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 11:14:35] use jtag hub: USERDR4
+[Warn] [2024-11-9 11:14:35] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 11:14:35] cmd operation open_cable releases locker
+[Debug] [2024-11-9 11:14:54] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 11:14:54] _total_bytes_size : 15e
+[Debug] [2024-11-9 11:14:54] cmd id :2712cmd name : configure
+[Debug] [2024-11-9 11:14:55] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 11:14:55] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:14:55] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:14:55] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:14:55] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:14:55] begin to read back config registerregAddr is 4
+[Debug] [2024-11-9 11:14:55] progress bar is 6
+[Debug] [2024-11-9 11:14:55] progress bar is 10
+[Debug] [2024-11-9 11:14:55] progress bar is 15
+[Debug] [2024-11-9 11:14:55] progress bar is 20
+[Debug] [2024-11-9 11:14:55] progress bar is 25
+[Debug] [2024-11-9 11:14:55] progress bar is 30
+[Debug] [2024-11-9 11:14:55] progress bar is 35
+[Debug] [2024-11-9 11:14:55] progress bar is 40
+[Debug] [2024-11-9 11:14:55] progress bar is 45
+[Debug] [2024-11-9 11:14:55] progress bar is 50
+[Debug] [2024-11-9 11:14:56] progress bar is 55
+[Debug] [2024-11-9 11:14:56] progress bar is 60
+[Debug] [2024-11-9 11:14:56] progress bar is 65
+[Debug] [2024-11-9 11:14:56] progress bar is 70
+[Debug] [2024-11-9 11:14:56] progress bar is 75
+[Debug] [2024-11-9 11:14:56] progress bar is 80
+[Debug] [2024-11-9 11:14:56] progress bar is 85
+[Debug] [2024-11-9 11:14:56] progress bar is 90
+[Debug] [2024-11-9 11:14:56] progress bar is 95
+[Debug] [2024-11-9 11:14:56] progress bar is 100
+[Debug] [2024-11-9 11:14:56] the value in the status register is :2096288
+[Debug] [2024-11-9 11:14:57] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 11:14:57] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:14:57] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:14:57] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:14:57] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:14:57] use jtag hub: USERDR1
+[Debug] [2024-11-9 11:14:57] Debug core 0 version id is 0x800f8018
+[Warn] [2024-11-9 11:14:57] Version id of degug core 0 is invalid : 0x800f8018
+[Warn] [2024-11-9 11:14:57] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 11:14:57] use jtag hub: USERDR2
+[Warn] [2024-11-9 11:14:57] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:57] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:57] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:57] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:57] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:57] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:57] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:57] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:57] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:57] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:57] Version id of degug core 10 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:57] Version id of degug core 11 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:57] Version id of degug core 12 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:57] Version id of degug core 13 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:57] Version id of degug core 14 is invalid : 0xffffffff
+[Warn] [2024-11-9 11:14:57] Version id of degug core 15 is invalid : 0xffffffff
+[Debug] [2024-11-9 11:14:57] use jtag hub: USERDR3
+[Warn] [2024-11-9 11:14:57] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 11:14:57] use jtag hub: USERDR4
+[Warn] [2024-11-9 11:14:57] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 11:14:57] use jtag hub: USERDR1
+[Debug] [2024-11-9 11:14:57] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 11:14:57] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 11:14:57] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 11:14:57] use jtag hub: USERDR1
+[Warn] [2024-11-9 11:14:57] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 11:14:57] use jtag hub: USERDR2
+[Warn] [2024-11-9 11:14:57] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 11:14:57] use jtag hub: USERDR3
+[Warn] [2024-11-9 11:14:57] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 11:14:57] use jtag hub: USERDR4
+[Warn] [2024-11-9 11:14:57] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 11:14:57] use jtag hub: USERDR1
+[Warn] [2024-11-9 11:14:57] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 11:14:57] use jtag hub: USERDR2
+[Warn] [2024-11-9 11:14:57] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 11:14:57] use jtag hub: USERDR3
+[Warn] [2024-11-9 11:14:57] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 11:14:57] use jtag hub: USERDR4
+[Warn] [2024-11-9 11:14:57] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 11:14:57] cmd operation configure releases locker
+[Debug] [2024-11-9 11:15:07] Add a new user_thread, socket descriptor is 5b4 user_thread id is 00000000000059E4
+[Debug] [2024-11-9 11:15:07] After adding, map size is : 3
+[Debug] [2024-11-9 11:15:07] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-9 11:15:07] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 11:15:07] _total_bytes_size : dac
+[Debug] [2024-11-9 11:15:07] cmd id :2713cmd name : run
+[Debug] [2024-11-9 11:15:07] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 11:15:07] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:15:07] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:15:07] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:15:07] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 11:15:07] use jtag hub: USERDR1
+[Debug] [2024-11-9 11:15:07] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 11:15:07] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 11:15:07] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 11:15:07] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 11:15:07] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 11:15:07] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 11:15:07] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 11:15:07] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 11:15:07] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 11:15:07] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 11:15:07] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 11:15:07] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 11:15:07] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 11:15:07] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 11:15:07] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 11:15:07] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 11:15:07] use jtag hub: USERDR1
+[Warn] [2024-11-9 11:15:07] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 11:15:07] use jtag hub: USERDR2
+[Warn] [2024-11-9 11:15:07] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 11:15:07] use jtag hub: USERDR3
+[Warn] [2024-11-9 11:15:07] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 11:15:07] use jtag hub: USERDR4
+[Warn] [2024-11-9 11:15:07] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 11:15:07] it is completed to reset the debugger core.
+[Debug] [2024-11-9 11:15:07] the value of trigger unit downloaded is : 0000000000000000000000000000000101000
+[Debug] [2024-11-9 11:15:07] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 11:15:07] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 11:15:07] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 11:15:07] Storage qualification is disable
+[Debug] [2024-11-9 11:15:08] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 11:15:08] samples buffer is full.
+[Debug] [2024-11-9 12:16:18] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:16:18] _total_bytes_size : 3e55
+[Debug] [2024-11-9 12:16:18] cmd id :2712cmd name : configure
+[Debug] [2024-11-9 12:16:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:19] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:19] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:19] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:19] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:19] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:19] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:19] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:19] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:19] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:19] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:20] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:16:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:20] begin to read back config registerregAddr is 4
+[Debug] [2024-11-9 12:16:20] progress bar is 6
+[Debug] [2024-11-9 12:16:20] progress bar is 10
+[Debug] [2024-11-9 12:16:20] progress bar is 15
+[Debug] [2024-11-9 12:16:20] progress bar is 20
+[Debug] [2024-11-9 12:16:20] progress bar is 25
+[Debug] [2024-11-9 12:16:20] progress bar is 30
+[Debug] [2024-11-9 12:16:20] progress bar is 35
+[Debug] [2024-11-9 12:16:20] progress bar is 40
+[Debug] [2024-11-9 12:16:20] progress bar is 45
+[Debug] [2024-11-9 12:16:20] progress bar is 50
+[Debug] [2024-11-9 12:16:21] progress bar is 55
+[Debug] [2024-11-9 12:16:21] progress bar is 60
+[Debug] [2024-11-9 12:16:21] progress bar is 65
+[Debug] [2024-11-9 12:16:21] progress bar is 70
+[Debug] [2024-11-9 12:16:21] progress bar is 75
+[Debug] [2024-11-9 12:16:21] progress bar is 80
+[Debug] [2024-11-9 12:16:21] progress bar is 85
+[Debug] [2024-11-9 12:16:21] progress bar is 90
+[Debug] [2024-11-9 12:16:21] progress bar is 95
+[Debug] [2024-11-9 12:16:21] progress bar is 100
+[Debug] [2024-11-9 12:16:21] the value in the status register is :2096288
+[Debug] [2024-11-9 12:16:22] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:16:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:22] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:16:22] Debug core 0 version id is 0x800f8018
+[Warn] [2024-11-9 12:16:22] Version id of degug core 0 is invalid : 0x800f8018
+[Warn] [2024-11-9 12:16:22] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:16:22] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:16:22] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:16:22] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:16:22] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:16:22] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:16:22] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:16:22] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:16:22] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:16:22] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:16:22] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:16:22] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:16:22] Version id of degug core 10 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:16:22] Version id of degug core 11 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:16:22] Version id of degug core 12 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:16:22] Version id of degug core 13 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:16:22] Version id of degug core 14 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:16:22] Version id of degug core 15 is invalid : 0xffffffff
+[Debug] [2024-11-9 12:16:22] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:16:22] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:16:22] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:16:22] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:16:22] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:16:22] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:16:22] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:16:22] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:16:22] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:16:22] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:22] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:16:22] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:16:22] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:16:22] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:22] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:16:22] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:22] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:16:22] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:22] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:16:22] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:16:22] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:16:22] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:22] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:16:22] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:22] cmd operation configure releases locker
+[Debug] [2024-11-9 12:16:24] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:16:24] _total_bytes_size : 3e48
+[Debug] [2024-11-9 12:16:24] cmd id :2713cmd name : run
+[Debug] [2024-11-9 12:16:24] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:16:24] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:24] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:24] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:24] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:24] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:16:24] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:16:24] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:16:24] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:16:24] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:16:24] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:16:24] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:16:24] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:16:24] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:16:24] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:16:24] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:16:24] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:16:24] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:16:24] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:16:24] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:16:24] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:16:24] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:16:24] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:16:24] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:24] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:16:24] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:16:24] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:16:24] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:24] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:16:24] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:24] it is completed to reset the debugger core.
+[Debug] [2024-11-9 12:16:24] the value of trigger unit downloaded is : 0000000000000000000000000000000101000
+[Debug] [2024-11-9 12:16:24] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 12:16:24] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 12:16:24] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 12:16:24] Storage qualification is disable
+[Debug] [2024-11-9 12:16:25] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 12:16:25] samples buffer is full.
+[Debug] [2024-11-9 12:16:33] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:16:33] _total_bytes_size : 3e48
+[Debug] [2024-11-9 12:16:33] cmd id :2713cmd name : run
+[Debug] [2024-11-9 12:16:33] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:16:33] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:33] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:33] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:33] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:33] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:16:33] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:16:33] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:16:33] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:16:33] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:16:33] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:16:33] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:16:33] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:16:33] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:16:33] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:16:33] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:16:33] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:16:33] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:16:33] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:16:33] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:16:33] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:16:33] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:16:33] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:16:33] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:33] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:16:33] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:16:33] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:16:33] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:33] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:16:33] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:33] it is completed to reset the debugger core.
+[Debug] [2024-11-9 12:16:33] the value of trigger unit downloaded is : 0000000000000000000000000000000101000
+[Debug] [2024-11-9 12:16:33] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 12:16:33] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 12:16:33] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 12:16:33] Storage qualification is disable
+[Debug] [2024-11-9 12:16:33] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 12:16:33] samples buffer is full.
+[Debug] [2024-11-9 12:16:48] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:16:48] _total_bytes_size : 3e48
+[Debug] [2024-11-9 12:16:48] cmd id :2713cmd name : run
+[Debug] [2024-11-9 12:16:48] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:16:48] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:48] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:48] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:48] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:48] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:16:48] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:16:48] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:16:48] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:16:48] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:16:48] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:16:48] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:16:48] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:16:48] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:16:48] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:16:48] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:16:48] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:16:48] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:16:48] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:16:48] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:16:48] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:16:48] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:16:48] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:16:48] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:48] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:16:48] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:16:48] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:16:48] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:48] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:16:48] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:48] it is completed to reset the debugger core.
+[Debug] [2024-11-9 12:16:48] the value of trigger unit downloaded is : 0000000000000000000000000000000101000
+[Debug] [2024-11-9 12:16:48] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 12:16:48] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 12:16:48] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 12:16:48] Storage qualification is disable
+[Debug] [2024-11-9 12:16:48] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 12:16:48] samples buffer is full.
+[Debug] [2024-11-9 12:16:49] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:16:49] _total_bytes_size : 3e48
+[Debug] [2024-11-9 12:16:49] cmd id :2713cmd name : run
+[Debug] [2024-11-9 12:16:49] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:16:49] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:49] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:49] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:49] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:49] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:16:49] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:16:49] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:16:49] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:16:49] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:16:49] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:16:49] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:16:49] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:16:49] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:16:49] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:16:49] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:16:49] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:16:49] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:16:49] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:16:49] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:16:49] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:16:49] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:16:49] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:16:49] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:49] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:16:49] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:16:49] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:16:49] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:49] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:16:49] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:49] it is completed to reset the debugger core.
+[Debug] [2024-11-9 12:16:49] the value of trigger unit downloaded is : 0000000000000000000000000000000101000
+[Debug] [2024-11-9 12:16:49] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 12:16:49] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 12:16:49] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 12:16:49] Storage qualification is disable
+[Debug] [2024-11-9 12:16:49] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 12:16:49] samples buffer is full.
+[Debug] [2024-11-9 12:16:50] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:16:50] _total_bytes_size : 3e48
+[Debug] [2024-11-9 12:16:50] cmd id :2713cmd name : run
+[Debug] [2024-11-9 12:16:50] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:16:50] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:50] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:50] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:50] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:50] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:16:50] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:16:50] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:16:50] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:16:50] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:16:50] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:16:50] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:16:50] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:16:50] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:16:50] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:16:50] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:16:50] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:16:50] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:16:50] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:16:50] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:16:50] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:16:50] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:16:50] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:16:50] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:50] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:16:50] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:16:50] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:16:50] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:50] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:16:50] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:50] it is completed to reset the debugger core.
+[Debug] [2024-11-9 12:16:50] the value of trigger unit downloaded is : 0000000000000000000000000000000101000
+[Debug] [2024-11-9 12:16:50] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 12:16:50] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 12:16:50] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 12:16:50] Storage qualification is disable
+[Debug] [2024-11-9 12:16:50] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 12:16:50] samples buffer is full.
+[Debug] [2024-11-9 12:16:51] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:16:51] _total_bytes_size : 3e48
+[Debug] [2024-11-9 12:16:51] cmd id :2713cmd name : run
+[Debug] [2024-11-9 12:16:51] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:16:51] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:51] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:51] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:51] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:16:51] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:16:51] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:16:51] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:16:51] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:16:51] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:16:51] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:16:51] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:16:51] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:16:51] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:16:51] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:16:51] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:16:51] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:16:51] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:16:51] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:16:51] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:16:51] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:16:51] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:16:51] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:16:51] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:51] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:16:51] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:16:51] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:16:51] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:51] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:16:51] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:16:51] it is completed to reset the debugger core.
+[Debug] [2024-11-9 12:16:51] the value of trigger unit downloaded is : 0000000000000000000000000000000101000
+[Debug] [2024-11-9 12:16:51] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 12:16:51] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 12:16:51] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 12:16:51] Storage qualification is disable
+[Debug] [2024-11-9 12:16:52] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 12:16:52] samples buffer is full.
+[Debug] [2024-11-9 12:17:45] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:17:45] _total_bytes_size : 3e48
+[Debug] [2024-11-9 12:17:45] cmd id :2713cmd name : run
+[Debug] [2024-11-9 12:17:46] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:17:46] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:17:46] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:17:46] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:17:46] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:17:46] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:17:46] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:17:46] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:17:46] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:17:46] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:17:46] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:17:46] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:17:46] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:17:46] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:17:46] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:17:46] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:17:46] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:17:46] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:17:46] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:17:46] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:17:46] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:17:46] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:17:46] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:17:46] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:17:46] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:17:46] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:17:46] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:17:46] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:17:46] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:17:46] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:17:46] it is completed to reset the debugger core.
+[Debug] [2024-11-9 12:17:46] the value of trigger unit downloaded is : 0000000000000000000000000000000101000
+[Debug] [2024-11-9 12:17:46] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 12:17:46] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 12:17:46] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 12:17:46] Storage qualification is disable
+[Debug] [2024-11-9 12:17:46] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 12:17:46] samples buffer is full.
+[Debug] [2024-11-9 12:36:51] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:36:51] _total_bytes_size : 3e55
+[Debug] [2024-11-9 12:36:51] cmd id :2712cmd name : configure
+[Debug] [2024-11-9 12:36:51] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:36:51] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:36:51] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:36:51] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:36:51] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:36:51] begin to read back config registerregAddr is 4
+[Debug] [2024-11-9 12:36:51] progress bar is 6
+[Debug] [2024-11-9 12:36:51] progress bar is 10
+[Debug] [2024-11-9 12:36:51] progress bar is 15
+[Debug] [2024-11-9 12:36:51] progress bar is 20
+[Debug] [2024-11-9 12:36:52] progress bar is 25
+[Debug] [2024-11-9 12:36:52] progress bar is 30
+[Debug] [2024-11-9 12:36:52] progress bar is 35
+[Debug] [2024-11-9 12:36:52] progress bar is 40
+[Debug] [2024-11-9 12:36:52] progress bar is 45
+[Debug] [2024-11-9 12:36:52] progress bar is 50
+[Debug] [2024-11-9 12:36:52] progress bar is 55
+[Debug] [2024-11-9 12:36:52] progress bar is 60
+[Debug] [2024-11-9 12:36:52] progress bar is 65
+[Debug] [2024-11-9 12:36:52] progress bar is 70
+[Debug] [2024-11-9 12:36:52] progress bar is 75
+[Debug] [2024-11-9 12:36:52] progress bar is 80
+[Debug] [2024-11-9 12:36:53] progress bar is 85
+[Debug] [2024-11-9 12:36:53] progress bar is 90
+[Debug] [2024-11-9 12:36:53] progress bar is 95
+[Debug] [2024-11-9 12:36:53] progress bar is 100
+[Debug] [2024-11-9 12:36:53] the value in the status register is :2096288
+[Debug] [2024-11-9 12:36:53] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:36:53] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:36:53] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:36:53] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:36:53] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:36:53] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:36:53] Debug core 0 version id is 0x800f8018
+[Warn] [2024-11-9 12:36:53] Version id of degug core 0 is invalid : 0x800f8018
+[Warn] [2024-11-9 12:36:53] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:36:53] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:36:53] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:36:53] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:36:53] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:36:53] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:36:53] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:36:53] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:36:53] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:36:53] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:36:53] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:36:53] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:36:53] Version id of degug core 10 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:36:53] Version id of degug core 11 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:36:53] Version id of degug core 12 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:36:53] Version id of degug core 13 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:36:53] Version id of degug core 14 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:36:53] Version id of degug core 15 is invalid : 0xffffffff
+[Debug] [2024-11-9 12:36:53] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:36:53] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:36:53] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:36:53] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:36:53] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:36:53] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:36:53] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:36:53] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:36:53] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:36:53] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:36:53] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:36:53] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:36:53] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:36:53] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:36:53] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:36:53] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:36:53] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:36:53] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:36:53] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:36:53] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:36:53] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:36:53] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:36:53] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:36:53] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:36:54] cmd operation configure releases locker
+[Debug] [2024-11-9 12:37:26] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:37:26] _total_bytes_size : 3e48
+[Debug] [2024-11-9 12:37:26] cmd id :2713cmd name : run
+[Debug] [2024-11-9 12:37:26] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:37:26] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:37:26] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:37:26] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:37:26] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:37:26] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:37:26] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:37:26] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:37:26] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:37:26] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:37:26] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:37:26] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:37:26] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:37:26] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:37:26] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:37:26] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:37:26] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:37:26] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:37:26] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:37:26] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:37:26] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:37:26] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:37:26] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:37:26] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:37:26] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:37:26] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:37:26] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:37:26] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:37:26] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:37:26] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:37:26] it is completed to reset the debugger core.
+[Debug] [2024-11-9 12:37:26] the value of trigger unit downloaded is : 0000000000000000000000000000000101000
+[Debug] [2024-11-9 12:37:26] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 12:37:26] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 12:37:26] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 12:37:26] Storage qualification is disable
+[Debug] [2024-11-9 12:37:26] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 12:37:26] samples buffer is full.
+[Info] [2024-11-9 12:55:24] /***************************Start jtagserver***************************/
+[Info] [2024-11-9 12:55:24] Path: E:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-11-9 12:55:24] Version: 132640
+[Debug] [2024-11-9 12:55:25] Add a new user_thread, socket descriptor is 1116 user_thread id is 0000000000004E10
+[Debug] [2024-11-9 12:55:25] After adding, map size is : 1
+[Debug] [2024-11-9 12:55:25] Add a new user_thread, socket descriptor is 196 user_thread id is 0000000000004E10
+[Debug] [2024-11-9 12:55:25] After adding, map size is : 2
+[Debug] [2024-11-9 12:55:25] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-9 12:55:25] IP address of connecting client is : ::ffff:127.0.0.1IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-9 12:55:25] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:55:25] _total_bytes_size : 166
+[Debug] [2024-11-9 12:55:25] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:55:25] _total_bytes_size : 96
+[Debug] [2024-11-9 12:55:25] cmd id :40010cmd name : get_cable_paras
+[Debug] [2024-11-9 12:55:26] cmd operation get_cable_paras releases locker
+[Debug] [2024-11-9 12:55:26] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:55:26] _total_bytes_size : 90
+[Debug] [2024-11-9 12:55:26] cmd id :10001cmd name : open_cable
+[Debug] [2024-11-9 12:55:26] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:55:26] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:26] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:26] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:26] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:26] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:55:26] Debug core 0 version id is 0x800f8018
+[Warn] [2024-11-9 12:55:26] Version id of degug core 0 is invalid : 0x800f8018
+[Warn] [2024-11-9 12:55:26] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:55:26] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:55:26] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:26] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:26] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:26] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:26] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:26] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:26] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:26] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:26] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:26] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:26] Version id of degug core 10 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:26] Version id of degug core 11 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:26] Version id of degug core 12 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:26] Version id of degug core 13 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:26] Version id of degug core 14 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:26] Version id of degug core 15 is invalid : 0xffffffff
+[Debug] [2024-11-9 12:55:26] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:55:26] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:55:26] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:55:26] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:55:26] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:55:26] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:55:26] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:55:26] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:55:26] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:55:26] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:26] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:55:26] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:55:26] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:55:26] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:26] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:55:26] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:26] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:55:26] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:26] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:55:26] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:55:26] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:55:26] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:26] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:55:26] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:27] cmd operation open_cable releases locker
+[Debug] [2024-11-9 12:55:32] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:55:32] _total_bytes_size : ad7
+[Debug] [2024-11-9 12:55:32] cmd id :2712cmd name : configure
+[Debug] [2024-11-9 12:55:33] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:55:33] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:33] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:33] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:33] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:33] begin to read back config registerregAddr is 4
+[Debug] [2024-11-9 12:55:33] progress bar is 6
+[Debug] [2024-11-9 12:55:33] progress bar is 10
+[Debug] [2024-11-9 12:55:33] progress bar is 15
+[Debug] [2024-11-9 12:55:33] progress bar is 20
+[Debug] [2024-11-9 12:55:33] progress bar is 25
+[Debug] [2024-11-9 12:55:33] progress bar is 30
+[Debug] [2024-11-9 12:55:33] progress bar is 35
+[Debug] [2024-11-9 12:55:33] progress bar is 40
+[Debug] [2024-11-9 12:55:33] progress bar is 45
+[Debug] [2024-11-9 12:55:33] progress bar is 50
+[Debug] [2024-11-9 12:55:34] progress bar is 55
+[Debug] [2024-11-9 12:55:34] progress bar is 60
+[Debug] [2024-11-9 12:55:34] progress bar is 65
+[Debug] [2024-11-9 12:55:34] progress bar is 70
+[Debug] [2024-11-9 12:55:34] progress bar is 75
+[Debug] [2024-11-9 12:55:34] progress bar is 80
+[Debug] [2024-11-9 12:55:34] progress bar is 85
+[Debug] [2024-11-9 12:55:34] progress bar is 90
+[Debug] [2024-11-9 12:55:34] progress bar is 95
+[Debug] [2024-11-9 12:55:34] progress bar is 100
+[Debug] [2024-11-9 12:55:34] the value in the status register is :2096288
+[Debug] [2024-11-9 12:55:35] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:55:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:35] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:55:35] Debug core 0 version id is 0x800f8018
+[Warn] [2024-11-9 12:55:35] Version id of degug core 0 is invalid : 0x800f8018
+[Warn] [2024-11-9 12:55:35] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:55:35] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:55:35] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:35] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:35] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:35] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:35] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:35] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:35] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:35] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:35] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:35] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:35] Version id of degug core 10 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:35] Version id of degug core 11 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:35] Version id of degug core 12 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:35] Version id of degug core 13 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:35] Version id of degug core 14 is invalid : 0xffffffff
+[Warn] [2024-11-9 12:55:35] Version id of degug core 15 is invalid : 0xffffffff
+[Debug] [2024-11-9 12:55:35] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:55:35] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:55:35] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:55:35] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:55:35] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:55:35] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:55:35] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:55:35] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:55:35] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:55:35] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:35] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:55:35] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:55:35] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:55:35] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:35] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:55:35] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:35] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:55:35] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:35] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:55:35] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:55:35] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:55:35] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:35] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:55:35] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:35] cmd operation configure releases locker
+[Debug] [2024-11-9 12:55:36] Add a new user_thread, socket descriptor is 4a0 user_thread id is 0000000000004E10
+[Debug] [2024-11-9 12:55:36] After adding, map size is : 3
+[Debug] [2024-11-9 12:55:36] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-9 12:55:36] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:55:36] _total_bytes_size : 184a
+[Debug] [2024-11-9 12:55:36] cmd id :2713cmd name : run
+[Debug] [2024-11-9 12:55:36] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:55:36] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:36] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:36] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:36] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:36] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:55:36] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:55:36] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:55:36] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:55:36] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:55:36] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:55:36] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:55:36] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:55:36] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:55:36] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:55:36] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:55:36] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:55:36] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:55:36] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:55:36] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:55:36] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:55:36] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:55:36] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:55:36] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:36] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:55:36] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:55:36] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:55:36] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:36] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:55:36] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:36] it is completed to reset the debugger core.
+[Debug] [2024-11-9 12:55:36] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000000000
+[Debug] [2024-11-9 12:55:36] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 12:55:36] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 12:55:36] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 12:55:36] Storage qualification is disable
+[Debug] [2024-11-9 12:55:36] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 12:55:36] samples buffer is full.
+[Debug] [2024-11-9 12:55:47] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:55:47] _total_bytes_size : 784e
+[Debug] [2024-11-9 12:55:47] cmd id :2713cmd name : run
+[Debug] [2024-11-9 12:55:48] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:55:48] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:48] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:48] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:48] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:55:48] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:55:48] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:55:48] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:55:48] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:55:48] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:55:48] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:55:48] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:55:48] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:55:48] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:55:48] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:55:48] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:55:48] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:55:48] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:55:48] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:55:48] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:55:48] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:55:48] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:55:48] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:55:48] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:48] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:55:48] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:55:48] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:55:48] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:48] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:55:48] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:55:48] it is completed to reset the debugger core.
+[Debug] [2024-11-9 12:55:48] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000101000
+[Debug] [2024-11-9 12:55:48] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 12:55:48] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 12:55:48] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 12:55:48] Storage qualification is disable
+[Debug] [2024-11-9 12:55:48] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 12:55:48] samples buffer is full.
+[Debug] [2024-11-9 12:56:04] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:56:04] _total_bytes_size : 784e
+[Debug] [2024-11-9 12:56:04] cmd id :2713cmd name : run
+[Debug] [2024-11-9 12:56:04] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:56:04] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:56:04] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:56:04] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:56:04] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:56:04] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:56:04] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:56:04] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:56:04] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:56:04] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:56:04] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:56:04] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:56:04] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:56:04] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:56:04] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:56:04] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:56:04] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:56:04] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:56:04] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:56:04] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:56:04] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:56:04] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:56:04] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:56:04] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:56:04] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:56:04] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:56:04] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:56:04] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:56:04] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:56:04] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:56:04] it is completed to reset the debugger core.
+[Debug] [2024-11-9 12:56:04] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000101000
+[Debug] [2024-11-9 12:56:04] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 12:56:04] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 12:56:04] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 12:56:04] Storage qualification is disable
+[Debug] [2024-11-9 12:56:04] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 12:56:04] samples buffer is full.
+[Debug] [2024-11-9 12:56:41] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:56:41] _total_bytes_size : 784e
+[Debug] [2024-11-9 12:56:41] cmd id :2713cmd name : run
+[Debug] [2024-11-9 12:56:42] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:56:42] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:56:42] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:56:42] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:56:42] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:56:42] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:56:42] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:56:42] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:56:42] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:56:42] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:56:42] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:56:42] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:56:42] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:56:42] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:56:42] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:56:42] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:56:42] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:56:42] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:56:42] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:56:42] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:56:42] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:56:42] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:56:42] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:56:42] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:56:42] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:56:42] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:56:42] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:56:42] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:56:42] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:56:42] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:56:42] it is completed to reset the debugger core.
+[Debug] [2024-11-9 12:56:42] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000101000
+[Debug] [2024-11-9 12:56:42] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 12:56:42] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 12:56:42] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 12:56:42] Storage qualification is disable
+[Debug] [2024-11-9 12:56:42] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 12:56:42] samples buffer is full.
+[Debug] [2024-11-9 12:57:35] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 12:57:35] _total_bytes_size : 784e
+[Debug] [2024-11-9 12:57:35] cmd id :2713cmd name : run
+[Debug] [2024-11-9 12:57:35] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 12:57:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:57:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:57:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:57:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 12:57:35] use jtag hub: USERDR1
+[Debug] [2024-11-9 12:57:35] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 12:57:35] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 12:57:35] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 12:57:35] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 12:57:35] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 12:57:35] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 12:57:35] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 12:57:35] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 12:57:35] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 12:57:35] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 12:57:35] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 12:57:35] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 12:57:35] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 12:57:35] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 12:57:35] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 12:57:35] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 12:57:35] use jtag hub: USERDR1
+[Warn] [2024-11-9 12:57:35] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:57:35] use jtag hub: USERDR2
+[Warn] [2024-11-9 12:57:35] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 12:57:35] use jtag hub: USERDR3
+[Warn] [2024-11-9 12:57:35] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:57:35] use jtag hub: USERDR4
+[Warn] [2024-11-9 12:57:35] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 12:57:35] it is completed to reset the debugger core.
+[Debug] [2024-11-9 12:57:35] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000101000
+[Debug] [2024-11-9 12:57:35] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 12:57:35] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 12:57:35] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 12:57:35] Storage qualification is disable
+[Debug] [2024-11-9 12:57:35] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 12:57:35] samples buffer is full.
+[Info] [2024-11-9 13:15:30] /***************************Start jtagserver***************************/
+[Info] [2024-11-9 13:15:30] Path: E:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-11-9 13:15:30] Version: 132640
+[Debug] [2024-11-9 13:15:31] Add a new user_thread, socket descriptor is 1344 user_thread id is 0000000000008A14
+[Debug] [2024-11-9 13:15:31] After adding, map size is : 1
+[Debug] [2024-11-9 13:15:31] Add a new user_thread, socket descriptor is 1352 user_thread id is 0000000000008A14
+[Debug] [2024-11-9 13:15:31] After adding, map size is : 2
+[Debug] [2024-11-9 13:15:31] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-9 13:15:31] IP address of connecting client is : ::ffff:127.0.0.1IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-9 13:15:31] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 13:15:31] _total_bytes_size : 166
+[Debug] [2024-11-9 13:15:31] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 13:15:31] _total_bytes_size : 96
+[Debug] [2024-11-9 13:15:31] cmd id :40010cmd name : get_cable_paras
+[Debug] [2024-11-9 13:15:32] cmd operation get_cable_paras releases locker
+[Debug] [2024-11-9 13:15:32] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 13:15:32] _total_bytes_size : 90
+[Debug] [2024-11-9 13:15:32] cmd id :10001cmd name : open_cable
+[Debug] [2024-11-9 13:15:32] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 13:15:32] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:32] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:32] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:32] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:32] use jtag hub: USERDR1
+[Debug] [2024-11-9 13:15:32] Debug core 0 version id is 0x800f8018
+[Warn] [2024-11-9 13:15:32] Version id of degug core 0 is invalid : 0x800f8018
+[Warn] [2024-11-9 13:15:32] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 13:15:32] use jtag hub: USERDR2
+[Warn] [2024-11-9 13:15:32] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:32] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:32] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:32] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:32] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:32] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:32] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:32] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:32] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:32] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:32] Version id of degug core 10 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:32] Version id of degug core 11 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:32] Version id of degug core 12 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:32] Version id of degug core 13 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:32] Version id of degug core 14 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:32] Version id of degug core 15 is invalid : 0xffffffff
+[Debug] [2024-11-9 13:15:32] use jtag hub: USERDR3
+[Warn] [2024-11-9 13:15:32] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 13:15:32] use jtag hub: USERDR4
+[Warn] [2024-11-9 13:15:32] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 13:15:32] use jtag hub: USERDR1
+[Debug] [2024-11-9 13:15:32] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 13:15:32] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 13:15:32] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 13:15:32] use jtag hub: USERDR1
+[Warn] [2024-11-9 13:15:32] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:32] use jtag hub: USERDR2
+[Warn] [2024-11-9 13:15:32] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 13:15:32] use jtag hub: USERDR3
+[Warn] [2024-11-9 13:15:32] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:32] use jtag hub: USERDR4
+[Warn] [2024-11-9 13:15:32] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:32] use jtag hub: USERDR1
+[Warn] [2024-11-9 13:15:32] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:32] use jtag hub: USERDR2
+[Warn] [2024-11-9 13:15:32] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 13:15:32] use jtag hub: USERDR3
+[Warn] [2024-11-9 13:15:32] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:32] use jtag hub: USERDR4
+[Warn] [2024-11-9 13:15:32] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:32] cmd operation open_cable releases locker
+[Debug] [2024-11-9 13:15:38] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 13:15:38] _total_bytes_size : 11af
+[Debug] [2024-11-9 13:15:38] cmd id :2712cmd name : configure
+[Debug] [2024-11-9 13:15:38] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 13:15:38] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:38] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:38] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:38] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:38] begin to read back config registerregAddr is 4
+[Debug] [2024-11-9 13:15:38] progress bar is 6
+[Debug] [2024-11-9 13:15:38] progress bar is 10
+[Debug] [2024-11-9 13:15:38] progress bar is 15
+[Debug] [2024-11-9 13:15:38] progress bar is 20
+[Debug] [2024-11-9 13:15:38] progress bar is 25
+[Debug] [2024-11-9 13:15:38] progress bar is 30
+[Debug] [2024-11-9 13:15:38] progress bar is 35
+[Debug] [2024-11-9 13:15:39] progress bar is 40
+[Debug] [2024-11-9 13:15:39] progress bar is 45
+[Debug] [2024-11-9 13:15:39] progress bar is 50
+[Debug] [2024-11-9 13:15:39] progress bar is 55
+[Debug] [2024-11-9 13:15:39] progress bar is 60
+[Debug] [2024-11-9 13:15:39] progress bar is 65
+[Debug] [2024-11-9 13:15:39] progress bar is 70
+[Debug] [2024-11-9 13:15:39] progress bar is 75
+[Debug] [2024-11-9 13:15:39] progress bar is 80
+[Debug] [2024-11-9 13:15:39] progress bar is 85
+[Debug] [2024-11-9 13:15:39] progress bar is 90
+[Debug] [2024-11-9 13:15:40] progress bar is 95
+[Debug] [2024-11-9 13:15:40] progress bar is 100
+[Debug] [2024-11-9 13:15:40] the value in the status register is :2096288
+[Debug] [2024-11-9 13:15:40] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 13:15:40] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:40] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:40] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:40] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:40] use jtag hub: USERDR1
+[Debug] [2024-11-9 13:15:40] Debug core 0 version id is 0x800f8018
+[Warn] [2024-11-9 13:15:40] Version id of degug core 0 is invalid : 0x800f8018
+[Warn] [2024-11-9 13:15:40] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 13:15:40] use jtag hub: USERDR2
+[Warn] [2024-11-9 13:15:40] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:40] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:40] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:40] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:40] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:40] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:40] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:40] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:40] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:40] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:40] Version id of degug core 10 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:40] Version id of degug core 11 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:40] Version id of degug core 12 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:40] Version id of degug core 13 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:40] Version id of degug core 14 is invalid : 0xffffffff
+[Warn] [2024-11-9 13:15:40] Version id of degug core 15 is invalid : 0xffffffff
+[Debug] [2024-11-9 13:15:40] use jtag hub: USERDR3
+[Warn] [2024-11-9 13:15:40] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 13:15:40] use jtag hub: USERDR4
+[Warn] [2024-11-9 13:15:40] Version id of degug core 0 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 13:15:40] use jtag hub: USERDR1
+[Debug] [2024-11-9 13:15:40] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 13:15:40] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 13:15:40] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 13:15:40] use jtag hub: USERDR1
+[Warn] [2024-11-9 13:15:40] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:40] use jtag hub: USERDR2
+[Warn] [2024-11-9 13:15:40] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 13:15:40] use jtag hub: USERDR3
+[Warn] [2024-11-9 13:15:40] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:40] use jtag hub: USERDR4
+[Warn] [2024-11-9 13:15:40] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:40] use jtag hub: USERDR1
+[Warn] [2024-11-9 13:15:40] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:40] use jtag hub: USERDR2
+[Warn] [2024-11-9 13:15:40] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 13:15:40] use jtag hub: USERDR3
+[Warn] [2024-11-9 13:15:40] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:40] use jtag hub: USERDR4
+[Warn] [2024-11-9 13:15:40] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:40] cmd operation configure releases locker
+[Debug] [2024-11-9 13:15:42] Add a new user_thread, socket descriptor is 528 user_thread id is 0000000000008A14
+[Debug] [2024-11-9 13:15:42] After adding, map size is : 3
+[Debug] [2024-11-9 13:15:42] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-9 13:15:42] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 13:15:42] _total_bytes_size : 2156
+[Debug] [2024-11-9 13:15:42] cmd id :2713cmd name : run
+[Debug] [2024-11-9 13:15:42] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 13:15:42] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:42] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:42] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:42] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:42] use jtag hub: USERDR1
+[Debug] [2024-11-9 13:15:42] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 13:15:42] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 13:15:42] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 13:15:42] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 13:15:42] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 13:15:42] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 13:15:42] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 13:15:42] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 13:15:42] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 13:15:42] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 13:15:42] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 13:15:42] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 13:15:42] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 13:15:42] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 13:15:42] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 13:15:42] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 13:15:42] use jtag hub: USERDR1
+[Warn] [2024-11-9 13:15:42] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:42] use jtag hub: USERDR2
+[Warn] [2024-11-9 13:15:42] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 13:15:42] use jtag hub: USERDR3
+[Warn] [2024-11-9 13:15:42] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:42] use jtag hub: USERDR4
+[Warn] [2024-11-9 13:15:42] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:42] it is completed to reset the debugger core.
+[Debug] [2024-11-9 13:15:42] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+[Debug] [2024-11-9 13:15:42] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 13:15:42] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 13:15:42] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 13:15:42] Storage qualification is disable
+[Debug] [2024-11-9 13:15:42] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 13:15:42] samples buffer is full.
+[Debug] [2024-11-9 13:15:45] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 13:15:45] _total_bytes_size : ad5a
+[Debug] [2024-11-9 13:15:45] cmd id :2713cmd name : run
+[Debug] [2024-11-9 13:15:45] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 13:15:45] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:45] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:45] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:45] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:45] use jtag hub: USERDR1
+[Debug] [2024-11-9 13:15:45] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 13:15:45] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 13:15:45] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 13:15:45] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 13:15:45] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 13:15:45] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 13:15:45] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 13:15:45] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 13:15:45] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 13:15:45] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 13:15:45] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 13:15:45] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 13:15:45] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 13:15:45] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 13:15:45] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 13:15:45] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 13:15:45] use jtag hub: USERDR1
+[Warn] [2024-11-9 13:15:45] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:45] use jtag hub: USERDR2
+[Warn] [2024-11-9 13:15:45] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 13:15:45] use jtag hub: USERDR3
+[Warn] [2024-11-9 13:15:45] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:45] use jtag hub: USERDR4
+[Warn] [2024-11-9 13:15:45] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:45] it is completed to reset the debugger core.
+[Debug] [2024-11-9 13:15:45] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+[Debug] [2024-11-9 13:15:45] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 13:15:45] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 13:15:45] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 13:15:45] Storage qualification is disable
+[Debug] [2024-11-9 13:15:45] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 13:15:45] samples buffer is full.
+[Debug] [2024-11-9 13:15:58] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 13:15:58] _total_bytes_size : ad5a
+[Debug] [2024-11-9 13:15:58] cmd id :2713cmd name : run
+[Debug] [2024-11-9 13:15:59] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 13:15:59] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:59] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:59] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:59] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:15:59] use jtag hub: USERDR1
+[Debug] [2024-11-9 13:15:59] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 13:15:59] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 13:15:59] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 13:15:59] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 13:15:59] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 13:15:59] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 13:15:59] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 13:15:59] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 13:15:59] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 13:15:59] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 13:15:59] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 13:15:59] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 13:15:59] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 13:15:59] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 13:15:59] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 13:15:59] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 13:15:59] use jtag hub: USERDR1
+[Warn] [2024-11-9 13:15:59] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:59] use jtag hub: USERDR2
+[Warn] [2024-11-9 13:15:59] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 13:15:59] use jtag hub: USERDR3
+[Warn] [2024-11-9 13:15:59] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:59] use jtag hub: USERDR4
+[Warn] [2024-11-9 13:15:59] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:15:59] it is completed to reset the debugger core.
+[Debug] [2024-11-9 13:15:59] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000
+[Debug] [2024-11-9 13:15:59] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 13:15:59] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 13:15:59] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 13:15:59] Storage qualification is disable
+[Debug] [2024-11-9 13:16:00] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 13:16:00] samples buffer is full.
+[Debug] [2024-11-9 13:16:10] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 13:16:10] _total_bytes_size : ad5a
+[Debug] [2024-11-9 13:16:10] cmd id :2713cmd name : run
+[Debug] [2024-11-9 13:16:10] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 13:16:10] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:16:10] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:16:10] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:16:10] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:16:10] use jtag hub: USERDR1
+[Debug] [2024-11-9 13:16:10] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 13:16:10] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 13:16:10] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 13:16:10] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 13:16:10] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 13:16:10] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 13:16:10] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 13:16:10] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 13:16:10] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 13:16:10] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 13:16:10] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 13:16:10] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 13:16:10] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 13:16:10] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 13:16:10] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 13:16:10] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 13:16:10] use jtag hub: USERDR1
+[Warn] [2024-11-9 13:16:10] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:16:10] use jtag hub: USERDR2
+[Warn] [2024-11-9 13:16:10] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 13:16:10] use jtag hub: USERDR3
+[Warn] [2024-11-9 13:16:10] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:16:10] use jtag hub: USERDR4
+[Warn] [2024-11-9 13:16:10] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:16:10] it is completed to reset the debugger core.
+[Debug] [2024-11-9 13:16:10] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000
+[Debug] [2024-11-9 13:16:10] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 13:16:10] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 13:16:10] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 13:16:10] Storage qualification is disable
+[Debug] [2024-11-9 13:16:10] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 13:16:10] samples buffer is full.
+[Debug] [2024-11-9 13:16:44] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 13:16:44] _total_bytes_size : ad5a
+[Debug] [2024-11-9 13:16:44] cmd id :2713cmd name : run
+[Debug] [2024-11-9 13:16:44] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 13:16:44] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:16:44] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:16:44] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:16:44] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:16:44] use jtag hub: USERDR1
+[Debug] [2024-11-9 13:16:44] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 13:16:44] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 13:16:44] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 13:16:44] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 13:16:44] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 13:16:44] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 13:16:44] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 13:16:44] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 13:16:44] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 13:16:44] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 13:16:44] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 13:16:45] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 13:16:45] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 13:16:45] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 13:16:45] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 13:16:45] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 13:16:45] use jtag hub: USERDR1
+[Warn] [2024-11-9 13:16:45] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:16:45] use jtag hub: USERDR2
+[Warn] [2024-11-9 13:16:45] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 13:16:45] use jtag hub: USERDR3
+[Warn] [2024-11-9 13:16:45] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:16:45] use jtag hub: USERDR4
+[Warn] [2024-11-9 13:16:45] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:16:45] it is completed to reset the debugger core.
+[Debug] [2024-11-9 13:16:45] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000
+[Debug] [2024-11-9 13:16:45] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 13:16:45] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 13:16:45] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 13:16:45] Storage qualification is disable
+[Debug] [2024-11-9 13:16:45] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 13:16:45] samples buffer is full.
+[Debug] [2024-11-9 13:17:05] Remove the header data from the client, index : 0
+[Debug] [2024-11-9 13:17:05] _total_bytes_size : ad5a
+[Debug] [2024-11-9 13:17:05] cmd id :2713cmd name : run
+[Debug] [2024-11-9 13:17:05] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-9 13:17:05] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:17:05] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:17:05] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:17:05] the idcode from the scanning is: 0x0
+[Debug] [2024-11-9 13:17:05] use jtag hub: USERDR1
+[Debug] [2024-11-9 13:17:05] Debug core 0 version id is 0x9001f003
+[Warn] [2024-11-9 13:17:05] Version id of degug core 1 is invalid : 0x0
+[Warn] [2024-11-9 13:17:05] Version id of degug core 2 is invalid : 0x0
+[Warn] [2024-11-9 13:17:05] Version id of degug core 3 is invalid : 0x0
+[Warn] [2024-11-9 13:17:05] Version id of degug core 4 is invalid : 0x0
+[Warn] [2024-11-9 13:17:05] Version id of degug core 5 is invalid : 0x0
+[Warn] [2024-11-9 13:17:05] Version id of degug core 6 is invalid : 0x0
+[Warn] [2024-11-9 13:17:05] Version id of degug core 7 is invalid : 0x0
+[Warn] [2024-11-9 13:17:05] Version id of degug core 8 is invalid : 0x0
+[Warn] [2024-11-9 13:17:05] Version id of degug core 9 is invalid : 0x0
+[Warn] [2024-11-9 13:17:05] Version id of degug core 10 is invalid : 0x0
+[Warn] [2024-11-9 13:17:05] Version id of degug core 11 is invalid : 0x0
+[Warn] [2024-11-9 13:17:05] Version id of degug core 12 is invalid : 0x0
+[Warn] [2024-11-9 13:17:05] Version id of degug core 13 is invalid : 0x0
+[Warn] [2024-11-9 13:17:05] Version id of degug core 14 is invalid : 0x0
+[Warn] [2024-11-9 13:17:05] Version id of degug core 15 is invalid : 0x0
+[Debug] [2024-11-9 13:17:05] use jtag hub: USERDR1
+[Warn] [2024-11-9 13:17:05] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:17:05] use jtag hub: USERDR2
+[Warn] [2024-11-9 13:17:05] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2024-11-9 13:17:05] use jtag hub: USERDR3
+[Warn] [2024-11-9 13:17:05] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:17:05] use jtag hub: USERDR4
+[Warn] [2024-11-9 13:17:05] Version id of eye scan is invalid : 0x0
+[Debug] [2024-11-9 13:17:05] it is completed to reset the debugger core.
+[Debug] [2024-11-9 13:17:05] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000
+[Debug] [2024-11-9 13:17:05] the value of trigger condition downloaded is : 010
+[Debug] [2024-11-9 13:17:05] the ouput enable is : 0the value is: 0
+[Debug] [2024-11-9 13:17:05] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2024-11-9 13:17:05] Storage qualification is disable
+[Debug] [2024-11-9 13:17:06] the current data number in the memory is equal to the sample number : 200
+[Info] [2024-11-9 13:17:06] samples buffer is full.
+[Info] [2024-11-10 08:44:13] /***************************Start jtagserver***************************/
+[Info] [2024-11-10 08:44:13] Path: E:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-11-10 08:44:13] Version: 132640
+[Debug] [2024-11-10 08:44:13] Add a new user_thread, socket descriptor is 1336 user_thread id is 0000000000006C4C
+[Debug] [2024-11-10 08:44:13] After adding, map size is : 1
+[Debug] [2024-11-10 08:44:13] Add a new user_thread, socket descriptor is 1308 user_thread id is 0000000000006C4C
+[Debug] [2024-11-10 08:44:13] After adding, map size is : 2
+[Debug] [2024-11-10 08:44:13] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-10 08:44:13] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-10 08:44:13] Remove the header data from the client, index : 0
+[Debug] [2024-11-10 08:44:13] _total_bytes_size : 166
+[Debug] [2024-11-10 08:44:13] Remove the header data from the client, index : 0
+[Debug] [2024-11-10 08:44:13] _total_bytes_size : 96
+[Debug] [2024-11-10 08:44:13] cmd id :40010cmd name : get_cable_paras
+[Debug] [2024-11-10 08:44:15] cmd operation get_cable_paras releases locker
+[Debug] [2024-11-10 08:44:15] Remove the header data from the client, index : 0
+[Debug] [2024-11-10 08:44:15] _total_bytes_size : 101
+[Debug] [2024-11-10 08:44:15] cmd id :20001cmd name : Open config cable
+[Debug] [2024-11-10 08:44:15] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:15] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:15] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:15] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:15] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:15] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:15] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:15] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:15] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:15] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:16] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:16] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:16] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:16] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:16] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:16] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:16] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:16] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:16] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:16] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:16] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:16] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:16] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:16] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:16] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:18] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:19] cmd operation Open config cable releases locker
+[Debug] [2024-11-10 08:44:20] Remove the header data from the client, index : 0
+[Debug] [2024-11-10 08:44:20] _total_bytes_size : 65
+[Debug] [2024-11-10 08:44:20] cmd id :4e21cmd name : Open config cable
+[Debug] [2024-11-10 08:44:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:20] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:21] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:21] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:21] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:21] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:21] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:21] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:21] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:21] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:21] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:21] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:22] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:23] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:23] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:23] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:23] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:23] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:23] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:23] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:23] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:23] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:23] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:23] cmd operation Open config cable releases locker
+[Info] [2024-11-10 08:44:33] /***************************Start jtagserver***************************/
+[Info] [2024-11-10 08:44:33] Path: E:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-11-10 08:44:33] Version: 132640
+[Debug] [2024-11-10 08:44:33] Add a new user_thread, socket descriptor is 1148 user_thread id is 0000000000009F40
+[Debug] [2024-11-10 08:44:33] After adding, map size is : 1
+[Debug] [2024-11-10 08:44:33] Add a new user_thread, socket descriptor is 1160 user_thread id is 0000000000009F40
+[Debug] [2024-11-10 08:44:33] After adding, map size is : 2
+[Debug] [2024-11-10 08:44:33] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-10 08:44:33] IP address of connecting client is : ::ffff:127.0.0.1IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-10 08:44:33] Remove the header data from the client, index : 0
+[Debug] [2024-11-10 08:44:33] _total_bytes_size : 166
+[Debug] [2024-11-10 08:44:33] Remove the header data from the client, index : 0
+[Debug] [2024-11-10 08:44:33] _total_bytes_size : 96
+[Debug] [2024-11-10 08:44:33] cmd id :40010cmd name : get_cable_paras
+[Debug] [2024-11-10 08:44:34] cmd operation get_cable_paras releases locker
+[Debug] [2024-11-10 08:44:34] Remove the header data from the client, index : 0
+[Debug] [2024-11-10 08:44:34] _total_bytes_size : 101
+[Debug] [2024-11-10 08:44:34] cmd id :20001cmd name : Open config cable
+[Debug] [2024-11-10 08:44:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:35] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:36] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:36] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:36] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:36] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:36] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:36] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:36] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:36] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:36] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:36] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:37] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:37] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:37] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:37] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:37] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:37] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:37] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:37] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:37] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:37] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:37] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:37] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:37] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:37] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:37] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:38] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:38] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:38] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:38] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:38] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:38] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:38] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:38] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:38] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:38] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:44:38] cmd operation Open config cable releases locker
+[Debug] [2024-11-10 08:44:59] Remove the header data from the client, index : 0
+[Debug] [2024-11-10 08:44:59] _total_bytes_size : 65
+[Debug] [2024-11-10 08:44:59] cmd id :4e21cmd name : Open config cable
+[Debug] [2024-11-10 08:45:00] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-10 08:45:00] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:45:00] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:45:00] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:45:00] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:45:00] cmd operation Open config cable releases locker
+[Debug] [2024-11-10 08:45:02] Remove the header data from the client, index : 0
+[Debug] [2024-11-10 08:45:02] _total_bytes_size : 28e
+[Debug] [2024-11-10 08:45:02] cmd id :4e22cmd name : Program
+[Debug] [2024-11-10 08:45:02] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-10 08:45:02] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:45:02] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:45:02] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:45:02] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 08:45:02] begin to read back config registerregAddr is 4
+[Debug] [2024-11-10 08:45:02] progress bar is 6
+[Debug] [2024-11-10 08:45:03] progress bar is 10
+[Debug] [2024-11-10 08:45:03] progress bar is 15
+[Debug] [2024-11-10 08:45:03] progress bar is 20
+[Debug] [2024-11-10 08:45:03] progress bar is 25
+[Debug] [2024-11-10 08:45:03] progress bar is 30
+[Debug] [2024-11-10 08:45:03] progress bar is 35
+[Debug] [2024-11-10 08:45:03] progress bar is 40
+[Debug] [2024-11-10 08:45:03] progress bar is 45
+[Debug] [2024-11-10 08:45:03] progress bar is 50
+[Debug] [2024-11-10 08:45:03] progress bar is 55
+[Debug] [2024-11-10 08:45:03] progress bar is 60
+[Debug] [2024-11-10 08:45:04] progress bar is 65
+[Debug] [2024-11-10 08:45:04] progress bar is 70
+[Debug] [2024-11-10 08:45:04] progress bar is 75
+[Debug] [2024-11-10 08:45:04] progress bar is 80
+[Debug] [2024-11-10 08:45:04] progress bar is 85
+[Debug] [2024-11-10 08:45:04] progress bar is 90
+[Debug] [2024-11-10 08:45:04] progress bar is 95
+[Debug] [2024-11-10 08:45:04] progress bar is 100
+[Debug] [2024-11-10 08:45:04] the value in the status register is :2096288
+[Debug] [2024-11-10 08:45:04] cmd operation Program releases locker
+[Info] [2024-11-10 10:56:55] /***************************Start jtagserver***************************/
+[Info] [2024-11-10 10:56:55] Path: E:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-11-10 10:56:55] Version: 132640
+[Debug] [2024-11-10 10:56:56] Add a new user_thread, socket descriptor is 1116 user_thread id is 000000000000850C
+[Debug] [2024-11-10 10:56:56] After adding, map size is : 1
+[Debug] [2024-11-10 10:56:56] Add a new user_thread, socket descriptor is 1308 user_thread id is 000000000000850C
+[Debug] [2024-11-10 10:56:56] After adding, map size is : 2
+[Debug] [2024-11-10 10:56:56] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-10 10:56:56] IP address of connecting client is : ::ffff:127.0.0.1IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-10 10:56:56] Remove the header data from the client, index : 0
+[Debug] [2024-11-10 10:56:56] _total_bytes_size : 166
+[Debug] [2024-11-10 10:56:56] Remove the header data from the client, index : 0
+[Debug] [2024-11-10 10:56:56] _total_bytes_size : 96
+[Debug] [2024-11-10 10:56:56] cmd id :40010cmd name : get_cable_paras
+[Debug] [2024-11-10 10:56:57] cmd operation get_cable_paras releases locker
+[Debug] [2024-11-10 10:56:57] Remove the header data from the client, index : 0
+[Debug] [2024-11-10 10:56:57] _total_bytes_size : 101
+[Debug] [2024-11-10 10:56:57] cmd id :20001cmd name : Open config cable
+[Debug] [2024-11-10 10:56:57] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-10 10:56:57] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 10:56:57] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 10:56:57] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 10:56:57] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 10:56:58] cmd operation Open config cable releases locker
+[Debug] [2024-11-10 10:57:00] Remove the header data from the client, index : 0
+[Debug] [2024-11-10 10:57:00] _total_bytes_size : 28e
+[Debug] [2024-11-10 10:57:00] cmd id :4e22cmd name : Program
+[Debug] [2024-11-10 10:57:00] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-10 10:57:00] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 10:57:00] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 10:57:00] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 10:57:00] the idcode from the scanning is: 0x0
+[Debug] [2024-11-10 10:57:00] begin to read back config registerregAddr is 4
+[Debug] [2024-11-10 10:57:00] progress bar is 6
+[Debug] [2024-11-10 10:57:00] progress bar is 10
+[Debug] [2024-11-10 10:57:00] progress bar is 15
+[Debug] [2024-11-10 10:57:00] progress bar is 20
+[Debug] [2024-11-10 10:57:00] progress bar is 25
+[Debug] [2024-11-10 10:57:00] progress bar is 30
+[Debug] [2024-11-10 10:57:00] progress bar is 35
+[Debug] [2024-11-10 10:57:00] progress bar is 40
+[Debug] [2024-11-10 10:57:00] progress bar is 45
+[Debug] [2024-11-10 10:57:01] progress bar is 50
+[Debug] [2024-11-10 10:57:01] progress bar is 55
+[Debug] [2024-11-10 10:57:01] progress bar is 60
+[Debug] [2024-11-10 10:57:01] progress bar is 65
+[Debug] [2024-11-10 10:57:01] progress bar is 70
+[Debug] [2024-11-10 10:57:01] progress bar is 75
+[Debug] [2024-11-10 10:57:01] progress bar is 80
+[Debug] [2024-11-10 10:57:01] progress bar is 85
+[Debug] [2024-11-10 10:57:01] progress bar is 90
+[Debug] [2024-11-10 10:57:01] progress bar is 95
+[Debug] [2024-11-10 10:57:01] progress bar is 100
+[Debug] [2024-11-10 10:57:01] the value in the status register is :2096288
+[Debug] [2024-11-10 10:57:02] cmd operation Program releases locker
+[Info] [2024-11-12 03:28:12] /***************************Start jtagserver***************************/
+[Info] [2024-11-12 03:28:12] Path: E:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-11-12 03:28:12] Version: 132640
+[Debug] [2024-11-12 03:28:13] Add a new user_thread, socket descriptor is 1256 user_thread id is 0000000000003250
+[Debug] [2024-11-12 03:28:13] After adding, map size is : 1
+[Debug] [2024-11-12 03:28:13] Add a new user_thread, socket descriptor is 1344 user_thread id is 0000000000003250
+[Debug] [2024-11-12 03:28:13] After adding, map size is : 2
+[Debug] [2024-11-12 03:28:13] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-12 03:28:13] IP address of connecting client is : ::ffff:127.0.0.1IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-12 03:28:13] Remove the header data from the client, index : 0
+[Debug] [2024-11-12 03:28:13] _total_bytes_size : 166
+[Debug] [2024-11-12 03:28:13] Remove the header data from the client, index : 0
+[Debug] [2024-11-12 03:28:13] _total_bytes_size : 96
+[Debug] [2024-11-12 03:28:13] cmd id :40010cmd name : get_cable_paras
+[Debug] [2024-11-12 03:28:14] cmd operation get_cable_paras releases locker
+[Debug] [2024-11-12 03:28:14] Remove the header data from the client, index : 0
+[Debug] [2024-11-12 03:28:14] _total_bytes_size : 101
+[Debug] [2024-11-12 03:28:14] cmd id :20001cmd name : Open config cable
+[Debug] [2024-11-12 03:28:14] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-12 03:28:14] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 03:28:14] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 03:28:14] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 03:28:14] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 03:28:14] cmd operation Open config cable releases locker
+[Debug] [2024-11-12 03:28:17] Remove the header data from the client, index : 0
+[Debug] [2024-11-12 03:28:17] _total_bytes_size : 28e
+[Debug] [2024-11-12 03:28:17] cmd id :4e22cmd name : Program
+[Debug] [2024-11-12 03:28:17] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-12 03:28:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 03:28:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 03:28:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 03:28:17] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 03:28:17] begin to read back config registerregAddr is 4
+[Debug] [2024-11-12 03:28:17] progress bar is 6
+[Debug] [2024-11-12 03:28:17] progress bar is 10
+[Debug] [2024-11-12 03:28:17] progress bar is 15
+[Debug] [2024-11-12 03:28:17] progress bar is 20
+[Debug] [2024-11-12 03:28:17] progress bar is 25
+[Debug] [2024-11-12 03:28:17] progress bar is 30
+[Debug] [2024-11-12 03:28:18] progress bar is 35
+[Debug] [2024-11-12 03:28:18] progress bar is 40
+[Debug] [2024-11-12 03:28:18] progress bar is 45
+[Debug] [2024-11-12 03:28:18] progress bar is 50
+[Debug] [2024-11-12 03:28:18] progress bar is 55
+[Debug] [2024-11-12 03:28:18] progress bar is 60
+[Debug] [2024-11-12 03:28:18] progress bar is 65
+[Debug] [2024-11-12 03:28:18] progress bar is 70
+[Debug] [2024-11-12 03:28:18] progress bar is 75
+[Debug] [2024-11-12 03:28:18] progress bar is 80
+[Debug] [2024-11-12 03:28:18] progress bar is 85
+[Debug] [2024-11-12 03:28:18] progress bar is 90
+[Debug] [2024-11-12 03:28:19] progress bar is 95
+[Debug] [2024-11-12 03:28:19] progress bar is 100
+[Debug] [2024-11-12 03:28:19] the value in the status register is :2096288
+[Debug] [2024-11-12 03:28:19] cmd operation Program releases locker
+[Info] [2024-11-12 06:28:24] /***************************Start jtagserver***************************/
+[Info] [2024-11-12 06:28:24] Path: E:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-11-12 06:28:24] Version: 132640
+[Debug] [2024-11-12 06:28:25] Add a new user_thread, socket descriptor is 1084 user_thread id is 0000000000005360
+[Debug] [2024-11-12 06:28:25] After adding, map size is : 1
+[Debug] [2024-11-12 06:28:25] Add a new user_thread, socket descriptor is 1148 user_thread id is 0000000000005360
+[Debug] [2024-11-12 06:28:25] After adding, map size is : 2
+[Debug] [2024-11-12 06:28:25] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-12 06:28:25] IP address of connecting client is : ::ffff:127.0.0.1IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-11-12 06:28:25] Remove the header data from the client, index : 0
+[Debug] [2024-11-12 06:28:25] _total_bytes_size : 166
+[Debug] [2024-11-12 06:28:25] Remove the header data from the client, index : 0
+[Debug] [2024-11-12 06:28:25] _total_bytes_size : 96
+[Debug] [2024-11-12 06:28:25] cmd id :40010cmd name : get_cable_paras
+[Debug] [2024-11-12 06:28:26] cmd operation get_cable_paras releases locker
+[Debug] [2024-11-12 06:28:26] Remove the header data from the client, index : 0
+[Debug] [2024-11-12 06:28:26] _total_bytes_size : 101
+[Debug] [2024-11-12 06:28:26] cmd id :20001cmd name : Open config cable
+[Debug] [2024-11-12 06:28:26] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-12 06:28:26] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 06:28:26] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 06:28:26] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 06:28:26] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 06:28:27] cmd operation Open config cable releases locker
+[Debug] [2024-11-12 06:28:29] Remove the header data from the client, index : 0
+[Debug] [2024-11-12 06:28:29] _total_bytes_size : 28e
+[Debug] [2024-11-12 06:28:29] cmd id :4e22cmd name : Program
+[Debug] [2024-11-12 06:28:29] the idcode from the scanning is: 0x10521899
+[Debug] [2024-11-12 06:28:29] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 06:28:29] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 06:28:29] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 06:28:29] the idcode from the scanning is: 0x0
+[Debug] [2024-11-12 06:28:29] begin to read back config registerregAddr is 4
+[Debug] [2024-11-12 06:28:29] progress bar is 6
+[Debug] [2024-11-12 06:28:29] progress bar is 10
+[Debug] [2024-11-12 06:28:29] progress bar is 15
+[Debug] [2024-11-12 06:28:29] progress bar is 20
+[Debug] [2024-11-12 06:28:29] progress bar is 25
+[Debug] [2024-11-12 06:28:30] progress bar is 30
+[Debug] [2024-11-12 06:28:30] progress bar is 35
+[Debug] [2024-11-12 06:28:30] progress bar is 40
+[Debug] [2024-11-12 06:28:30] progress bar is 45
+[Debug] [2024-11-12 06:28:30] progress bar is 50
+[Debug] [2024-11-12 06:28:30] progress bar is 55
+[Debug] [2024-11-12 06:28:30] progress bar is 60
+[Debug] [2024-11-12 06:28:30] progress bar is 65
+[Debug] [2024-11-12 06:28:30] progress bar is 70
+[Debug] [2024-11-12 06:28:30] progress bar is 75
+[Debug] [2024-11-12 06:28:30] progress bar is 80
+[Debug] [2024-11-12 06:28:30] progress bar is 85
+[Debug] [2024-11-12 06:28:31] progress bar is 90
+[Debug] [2024-11-12 06:28:31] progress bar is 95
+[Debug] [2024-11-12 06:28:31] progress bar is 100
+[Debug] [2024-11-12 06:28:31] the value in the status register is :2096288
+[Debug] [2024-11-12 06:28:31] cmd operation Program releases locker

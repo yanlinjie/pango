@@ -1,0 +1,142 @@
+##### Written on 2024/10/08 18:05:56 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PGL50H-6FBG484
+
+Top Module : 
+	top
+
+Constraint File(s) : 
+	C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 24 critical warning(s), 0 warning(s), out of 938 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+
+
+define_attribute {p:mem_dq[14]} {PAP_IO_LOC} {P3}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 257)] | Port mem_dq[14] has been placed at location P3, whose type is share pin.
+
+define_attribute {p:mem_dq[11]} {PAP_IO_LOC} {M1}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 278)] | Port mem_dq[11] has been placed at location M1, whose type is share pin.
+
+define_attribute {p:mem_dq[9]} {PAP_IO_LOC} {M2}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 292)] | Port mem_dq[9] has been placed at location M2, whose type is share pin.
+
+define_attribute {p:b_out[5]} {PAP_IO_LOC} {R22}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 573)] | Port b_out[5] has been placed at location R22, whose type is share pin.
+
+define_attribute {p:b_out[4]} {PAP_IO_LOC} {R20}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 580)] | Port b_out[4] has been placed at location R20, whose type is share pin.
+
+define_attribute {p:b_out[2]} {PAP_IO_LOC} {T21}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 594)] | Port b_out[2] has been placed at location T21, whose type is share pin.
+
+define_attribute {p:g_out[7]} {PAP_IO_LOC} {L17}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 615)] | Port g_out[7] has been placed at location L17, whose type is share pin.
+
+define_attribute {p:g_out[6]} {PAP_IO_LOC} {K20}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 622)] | Port g_out[6] has been placed at location K20, whose type is share pin.
+
+define_attribute {p:g_out[5]} {PAP_IO_LOC} {L19}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 629)] | Port g_out[5] has been placed at location L19, whose type is share pin.
+
+define_attribute {p:g_out[0]} {PAP_IO_LOC} {M21}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 664)] | Port g_out[0] has been placed at location M21, whose type is share pin.
+
+define_attribute {p:r_out[7]} {PAP_IO_LOC} {H19}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 671)] | Port r_out[7] has been placed at location H19, whose type is share pin.
+
+define_attribute {p:r_out[6]} {PAP_IO_LOC} {H22}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 678)] | Port r_out[6] has been placed at location H22, whose type is share pin.
+
+define_attribute {p:r_out[5]} {PAP_IO_LOC} {H21}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 685)] | Port r_out[5] has been placed at location H21, whose type is share pin.
+
+define_attribute {p:r_out[0]} {PAP_IO_LOC} {K17}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 720)] | Port r_out[0] has been placed at location K17, whose type is share pin.
+
+define_attribute {p:pixclk_out} {PAP_IO_LOC} {M22}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 757)] | Port pixclk_out has been placed at location M22, whose type is share pin.
+
+define_attribute {p:g_in[5]} {PAP_IO_LOC} {AB18}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 856)] | Port g_in[5] has been placed at location AB18, whose type is share pin.
+
+define_attribute {p:g_in[4]} {PAP_IO_LOC} {AA18}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 861)] | Port g_in[4] has been placed at location AA18, whose type is share pin.
+
+define_attribute {p:g_in[3]} {PAP_IO_LOC} {AB19}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 866)] | Port g_in[3] has been placed at location AB19, whose type is share pin.
+
+define_attribute {p:g_in[2]} {PAP_IO_LOC} {W18}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 871)] | Port g_in[2] has been placed at location W18, whose type is share pin.
+
+define_attribute {p:g_in[1]} {PAP_IO_LOC} {V17}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 876)] | Port g_in[1] has been placed at location V17, whose type is share pin.
+
+define_attribute {p:iic_sda} {PAP_IO_LOC} {V20}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 927)] | Port iic_sda has been placed at location V20, whose type is share pin.
+
+define_attribute {p:iic_scl} {PAP_IO_LOC} {V19}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 934)] | Port iic_scl has been placed at location V19, whose type is share pin.
+
+define_attribute {p:pixclk_in} {PAP_IO_LOC} {AA12}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 952)] | Port pixclk_in has been placed at location AA12, whose type is share pin.
+
+define_attribute {p:rst_n} {PAP_IO_LOC} {K18}
+
+	C: ConstraintEditor-2002: [C:/Users/14861/Desktop/ws/ws_now/test_heijin/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi/ddr3_ov5640_hdmi.fdc(line number: 979)] | Port rst_n has been placed at location K18, whose type is share pin.
+
+
+Constraints with issues:
+********************************************
+
+
+
+
+
+
+
+
+
+
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+
+
+
+

@@ -1,0 +1,112 @@
+Design Summary : All Constraints Met.
+
+Setup Summary(Slow Corner):
+****************************************************************************************************
+                                                                          TNS Failing      TNS Total
+ Launch Clock           Capture Clock              WNS(ns)     TNS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+ free_clk               free_clk                    11.493       0.000              0           2358
+ free_clk|u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/CLKDIVOUT_Inferred
+                        free_clk|u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/CLKDIVOUT_Inferred
+                                                    45.648       0.000              0            903
+ free_clk               free_clk|u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/CLKDIVOUT_Inferred
+                                                     2.207       0.000              0              6
+ DebugCore_JCLK         DebugCore_JCLK              22.473       0.000              0            411
+ DebugCore_CAPTURE      DebugCore_JCLK              22.546       0.000              0            115
+ DebugCore_JCLK         DebugCore_CAPTURE           45.068       0.000              0             16
+====================================================================================================
+
+Hold Summary(Slow Corner):
+****************************************************************************************************
+                                                                          THS Failing      THS Total
+ Launch Clock           Capture Clock              WHS(ns)     THS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+ free_clk               free_clk                     0.223       0.000              0           2358
+ free_clk|u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/CLKDIVOUT_Inferred
+                        free_clk|u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/CLKDIVOUT_Inferred
+                                                     0.339       0.000              0            903
+ free_clk               free_clk|u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/CLKDIVOUT_Inferred
+                                                     1.032       0.000              0              6
+ DebugCore_JCLK         DebugCore_JCLK               0.312       0.000              0            411
+ DebugCore_CAPTURE      DebugCore_JCLK              21.823       0.000              0            115
+ DebugCore_JCLK         DebugCore_CAPTURE            3.122       0.000              0             16
+====================================================================================================
+
+Recovery Summary(Slow Corner):
+****************************************************************************************************
+                                                                          TNS Failing      TNS Total
+ Launch Clock           Capture Clock              WNS(ns)     TNS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+ free_clk               free_clk                    16.406       0.000              0            654
+====================================================================================================
+
+Removal Summary(Slow Corner):
+****************************************************************************************************
+                                                                          THS Failing      THS Total
+ Launch Clock           Capture Clock              WHS(ns)     THS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+ free_clk               free_clk                     0.708       0.000              0            654
+====================================================================================================
+
+Minimum Pulse Width Summary(Slow Corner):
+****************************************************************************************************
+                                                                         WPWS Failing     WPWS Total
+ Clock                                            WPWS(ns)    TPWS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+Setup Summary(Fast Corner):
+****************************************************************************************************
+                                                                          TNS Failing      TNS Total
+ Launch Clock           Capture Clock              WNS(ns)     TNS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+ free_clk               free_clk                    13.902       0.000              0           2358
+ free_clk|u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/CLKDIVOUT_Inferred
+                        free_clk|u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/CLKDIVOUT_Inferred
+                                                    46.935       0.000              0            903
+ free_clk               free_clk|u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/CLKDIVOUT_Inferred
+                                                     7.744       0.000              0              6
+ DebugCore_JCLK         DebugCore_JCLK              23.200       0.000              0            411
+ DebugCore_CAPTURE      DebugCore_JCLK              23.038       0.000              0            115
+ DebugCore_JCLK         DebugCore_CAPTURE           46.706       0.000              0             16
+====================================================================================================
+
+Hold Summary(Fast Corner):
+****************************************************************************************************
+                                                                          THS Failing      THS Total
+ Launch Clock           Capture Clock              WHS(ns)     THS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+ free_clk               free_clk                     0.181       0.000              0           2358
+ free_clk|u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/CLKDIVOUT_Inferred
+                        free_clk|u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/CLKDIVOUT_Inferred
+                                                     0.264       0.000              0            903
+ free_clk               free_clk|u_yt_ctrl/u_mdio_master_driver/u_GTP_IOCLKDIV/CLKDIVOUT_Inferred
+                                                     0.880       0.000              0              6
+ DebugCore_JCLK         DebugCore_JCLK               0.251       0.000              0            411
+ DebugCore_CAPTURE      DebugCore_JCLK              23.234       0.000              0            115
+ DebugCore_JCLK         DebugCore_CAPTURE            2.138       0.000              0             16
+====================================================================================================
+
+Recovery Summary(Fast Corner):
+****************************************************************************************************
+                                                                          TNS Failing      TNS Total
+ Launch Clock           Capture Clock              WNS(ns)     TNS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+ free_clk               free_clk                    17.446       0.000              0            654
+====================================================================================================
+
+Removal Summary(Fast Corner):
+****************************************************************************************************
+                                                                          THS Failing      THS Total
+ Launch Clock           Capture Clock              WHS(ns)     THS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+ free_clk               free_clk                     0.527       0.000              0            654
+====================================================================================================
+
+Minimum Pulse Width Summary(Fast Corner):
+****************************************************************************************************
+                                                                         WPWS Failing     WPWS Total
+ Clock                                            WPWS(ns)    TPWS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+

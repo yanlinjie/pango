@@ -1,0 +1,46 @@
+--/example_design                                   //设计实例包含的文件
+  -- /bench                                         //_sim_top.v和_top_tb.v
+     -- ipsxb_qsgmii_dut_sim_top.v                  //QSGMII IP Example Design仿真文件，包含环境和时钟激励
+     -- ipsxb_qsgmii_dut_top_tb.v                   //QSGMII IP Example Design顶层仿真文件，为仿真提供仿真信号激励和仿真结果检查
+  -- /rtl                                           //设计实例包含的RTL文件，QSGMII IP以外的代码文件，在ipsxd_qsgmii_onboard_top.v中例化，详见UG_042007_Logos2_QSGMII_IP.pdf
+     -- /debug_core                                 //debug功能模块文件，提供在线抓取数据的功能
+     -- /led                                        //led模块RTL文件夹，提供时钟点灯功能
+     -- /mdio                                       //mdio模块RTL文件夹，提供模拟MDIO接口驱动功能，仅用于仿真
+     -- /pkg_gen                                    //pgk_gen模块RTL文件夹，提供GMII接口、数据包发送、数据接收校验功能
+     -- /reg_slave                                  //reg_slave模块的相关文件
+     -- /reset_and_sync                             //reset_and_sync模块RTL文件夹，提供复位同步化、去抖和外部信号去抖动功能
+     -- /uart_ctrl_32bit                            //uart模块的代码
+     -- ipsxb_sgmii_onboard_top.v                   //Example Design顶层文件
+     -- ipsxb_qsgmii_dut_top_$instname.v            //Example Design次顶层文件，是仿真和上板的公共文件，其中$instname是用户输入的例化名
+     -- ipsxb_bus_allocator.v                       //多核片选控制模块，用于Example Design设计
+--/pnr                                              //综合布局布线工程
+  -- /example_design                                //设计实例的综合布局布线工程文件及约束文件
+     -- ipsxd_qsgmii_top.prj                        //QSGMII IP Example Design PDS工程文件
+     -- ipsxd_qsgmii_top.fdc                        //QSGMII IP Example Design PDS约束文件
+  -- /core_only                                     //IP Core的综合布局布线工程文件及约束文件
+     -- $instname.prj                               //QSGMII IP Core PDS工程文件，其中$instname是用户输入的例化名
+     -- $instname.fdc                               //QSGMII IP Core PDS约束文件，其中$instname是用户输入的例化名
+     -- ipsxd_qsgmii_core_only_v1_2.v               //QSGMII IP Core_only顶层代码
+--/rtl                                              //QSGMII IP包含的设计代码
+  -- ipsxd_sgmii_core_v1_0b_$instname.v              //Pango SGMII Core顶层，明文代码，含软核功能模块顶层和APB接口模块，可用于综合或者仿真，在ipsxd_qsgmii_pcs_core_v1_0_$instname.v中例化
+  -- ipsxd_sgmii_ge_pcs_core_v1_0b_$instname.v       //Pango SGMII Core功能模块顶层，明文代码，可用于综合或者仿真，在ipsxd_sgmii_core_v1_0_$instname.v中例化
+  -- ipsxd_qsgmii_pcs_core_v1_1a_$instname.v         //Pango QSGMII Core 功能模块顶层，明文代吗，可用于综合或仿真，在$instname.v中例化
+  -- ipsxd_qsgmii_pcs_tx_v1_0.v                     //Pango QSGMII TX 功能模块顶层代码，明文代吗，可用于综合或仿真，在ipsxd_qsgmii_pcs_core_v1_0_$instname.v中例化
+  -- ipsxd_qsgmii_pcs_rx_v1_0.v                     //Pango QSGMII RX 功能模块顶层代码，明文代吗，可用于综合或仿真，在ipsxd_qsgmii_pcs_core_v1_0_$instname.v中例化
+  -- ipsxd_qsgmii_pcs_reset_gen_v1_0.v              //Pango QSGMII 复位功能模块代码，明文代吗，可用于综合或仿真，在ipsxd_qsgmii_pcs_core_v1_0_$instname.v中例化
+  -- /hssthp                                        //Pango HSSTLP 代码，在$instname.v中例化
+  -- /synplify                                      //Pango QSGMII Core的其他模块，加密代码，仅用于综合
+  -- /common                                        //Pango QSGMII Core调用的RAM模块，在ips_sgmii_rx_elastic_buffer_v1_9.v中例化
+--/sim                                              //simulation目录
+  --modelsim                                        //仿真运行的.do文件及filelist
+    -- ipsxd_sgmii_top_sim.do                       //用于仿真运行的.do文件
+    -- ipsxd_sgmii_top_filelist.f                   //用于仿真的filelist，被ipsxd_qsgmii_top_sim.do调用
+    -- ipsxd_sgmii_top_sim_wave.do                  //用于仿真运行的波形加载.do文件，被ipsxd_qsgmii_top_sim.do调用
+    -- sim.bat                                      //用于运行ipsxd_qsgmii_top_sim.do的脚本
+--/sim_lib                                          //加密代码，仅用于仿真
+  -- /modelsim                                      //适用于ModelSim 10.2c的加密代码 _sim.vp
+--generate.log                                      //IP生成日志信息
+--$instname.idf                                     //IP的.idf文件，其中$instname是用户输入的例化名
+--$instname.v                                       //IP的wrapper文件，其中$instname是用户输入的例化名
+--$instname_tmpl.v                                  //IP wrapper的verilog例化文件，方便用户使用，其中$instname是用户输入的例化名
+--$instname_tmpl.vhdl                               //IP wrapper的vhdl例化文件，方便用户使用，其中$instname是用户输入的例化名
